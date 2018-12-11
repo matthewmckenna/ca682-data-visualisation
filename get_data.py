@@ -76,8 +76,9 @@ def simple_download(
 
 def get_daily_weather_station_data():
     """download daily weather station data"""
-    # TODO: get `station_numbers` from `stations.csv`
-    station_numbers = [2115, 375, 6114, 4515]
+    with open('data/station_numbers.txt', 'rt') as f:
+        station_numbers = [int(station_num) for station_num in f]
+
     urls = [f'{BASE_URL}/dly{station_num}.zip' for station_num in station_numbers]
 
     # TODO: check if `~` expands to user home on Windows
