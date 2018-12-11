@@ -27,7 +27,7 @@ This file can be tidied up to extract only the fields of interest by running `cl
 This is a very simple shell script.
 The contents are shown below:
 
-```
+```bash
 $ cat clean_stations_csv.sh
 #!/bin/bash
 # extract fields of interest from `stations.csv`
