@@ -99,3 +99,59 @@ $ find . -type f -size -1024c
 ```
 
 This leaves us with valid weather data for `498` weather stations across Ireland.
+
+
+## Finding how many rows to skip
+
+The CSV files are not standardised.
+In order to load the CSVs into a `DataFrame`, we need to provide the `skiprows` argument.
+In order to find out how many rows to skip, we can recursively `grep` for the header line.
+In the `data` directory, run:
+
+```bash
+grep -nr "date," daily/csvs/dly*.csv |cut -d'/' -f3 |cut -d':' -f1,2 >header_rows.txt
+```
+
+We can inspect the first `10` lines with:
+
+```bash
+$ head header_rows.txt
+dly10023.csv:10
+dly1024.csv:10
+dly1033.csv:10
+dly1042.csv:10
+dly1043.csv:10
+dly1075.csv:25
+dly108.csv:10
+dly1103.csv:10
+dly1107.csv:10
+dly1108.csv:10
+```
+
+For most of the files, the header is on line `10`.
+However, for `dly1075.csv`, the header is on line `25`.
+We can extract this information, and create a mapping using Python.
+We'll also make use of the `stations_clean.csv` file generated earlier.
+
+## Data shift in `stations.csv`
+
+There is an extra comma in the `county` field in the original `stations.csv` which caused the data to be shifted when running the script to clean this data.
+This can be corrected by running the following code on macOS:
+
+```bash
+$ sed -i.bak "460s/.*/5331,DELVIN CASTLE G.C.,Westmeath,53.608,-7.104/" stations_clean.csv
+$ mv stations_clean.csv{.bak,}
+```
+
+or on Linux/Windows
+
+```bash
+$ sed -i "460s/.*/5331,DELVIN CASTLE G.C.,Westmeath,53.608,-7.104/" stations_clean.csv
+```
+
+
+## Creating a `DataFrame` with all station details
+
+We want to gather all information about the stations in an easy-to-use format.
+We'll use `pandas` to create `DataFrame` objects to work with.
+Initial cleaning and transformation is done in [`data-cleaning_2018-12-14.ipynb`](data-cleaning_2018-12-14.ipynb).
