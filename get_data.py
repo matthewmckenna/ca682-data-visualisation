@@ -4,7 +4,6 @@ download weather data from Met Éireann.
 """
 import argparse
 import pathlib
-import pprint
 from queue import Queue
 import threading
 import time
