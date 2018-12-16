@@ -1,5 +1,5 @@
 """utility functions for data cleaning and visualisation"""
-from typing import Any, Dict, Tuple
+from typing import Any, Dict, List, Tuple
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -22,6 +22,7 @@ def load_data(fpath: str, station: Dict[str, Any]) -> pd.DataFrame:
     df['month'] = df['date'].dt.month
     df['day'] = df['date'].dt.dayofyear
     df['week'] = df['date'].dt.weekofyear
+    df['year_month'] = df['date'].dt.to_period('M')
 
     return df
 
@@ -56,6 +57,46 @@ def split_and_aggregate(df: pd.DataFrame, cutoff_year: int = 2008, timescale: st
 def get_start_end_years(df: pd.DataFrame) -> Tuple[int, int]:
     """get the start and end years from a DataFrame"""
     return df.iloc[0].year, df.iloc[-1].year
+
+
+def aggregate_and_plot(
+    df: pd.DataFrame,
+    station: str,
+    county: str,
+    timescale: str,
+    agg: str,
+) -> None:
+    """aggreate and plot a dataframe"""
+    # split the data into the past decade, and everything else
+    last_decade, historic = split_data(df, cutoff_year=2008)
+
+    # get the start and end years for the historic data
+    start_end_year = get_start_end_years(historic)
+    print(f'Historic data from: {start_end_year[0]}–{start_end_year[1]}')
+
+
+    # aggregate the two DataFrames based on the timescale selected above
+    historic_agg = aggregate_data(historic, timescale=timescale)
+    last_decade_agg = aggregate_data(last_decade, timescale=timescale)
+
+    # get a DataFrame with the record-breaking highs
+    rec_high = record_high(last_decade_agg, historic_agg, agg=agg)
+
+    # print out the number of record-breaking days, weeks, or months
+    ess = 's' if rec_high.shape[0] > 1 else ''
+    print(f'Record high recorded {rec_high.shape[0]} {timescale}{ess} in the past decade')
+
+    # plot the data
+    plot(
+        historic_agg,
+        last_decade_agg,
+        rec_high,
+        aggregation=agg,
+        timescale=timescale,
+        start_end_year=start_end_year,
+        station=station,
+        county=county,
+    )
 
 
 def plot(
@@ -153,3 +194,93 @@ def plot(
         l.set_alpha(text_alpha)
     for l in ax.xaxis.get_ticklabels():
         l.set_alpha(text_alpha)
+
+
+def plot_top_months(
+    data: Dict[str, Dict[str, List[Any]]],
+    county: str,
+    station_name: str,
+    n_months: int,
+    highlight_top_only: bool,
+) -> None:
+    df = pd.DataFrame.from_dict(data[county])
+    top_n = df.sort_values('rainfall', ascending=False).head(n=n_months)
+
+    # these are the default matplotlib plot sizes
+    sx, sy = 8.0, 6.0
+    multiplier = 1.35
+    # scale up the plot
+    sx *= multiplier
+    sy *= multiplier
+
+    # alpha value for displayed text
+    text_alpha = 0.7
+    # colours to be used for bars
+    grayed_out = 'silver'
+    colour = '#8da0cb'
+
+    plt.figure(figsize=(sx, sy))
+    ax = plt.gca()
+
+    labels = top_n['year_month']
+    label_pos = np.arange(labels.shape[0])
+    rainfall_mm = top_n['rainfall']
+
+    bars = plt.bar(
+        range(n_months),
+        rainfall_mm,
+        align='center',
+        color=grayed_out,
+    )
+
+    if highlight_top_only:
+        # colour top bar only
+        bars[0].set_color(colour)
+    else:
+        # enumerate the indices
+        index_map = dict(zip(top_n.index, range(n_months)))
+
+        # get indices of years >= 2006 in the DataFrame
+        indices = top_n[top_n.year >= 2006].index.values
+
+        # get the indices of the bars to highlight
+        recent_years = set(index_map[i] for i in indices)
+
+        for idx in recent_years:
+            bars[idx].set_color(colour)
+
+    # set up the tickmarks and labels
+    ax.set_xticks(label_pos)
+    ax.set_xticklabels(labels)
+
+    # turn off tickmarks and labels on left
+    # turn off tickmarks on bottom, but leave label on
+    plt.tick_params(
+        bottom=False,
+        left=False,
+        labelleft=False,
+        labelbottom=True,
+    )
+
+    # remove the frame
+    for spine in plt.gca().spines.values():
+        spine.set_visible(False)
+
+    # directly label each bar
+    for bar in bars:
+        plt.gca().text(
+            bar.get_x() + bar.get_width()/2,
+            bar.get_height() - 30,
+            f'{bar.get_height():.1f}',
+            ha='center',
+            color='w',
+            fontsize=11,
+        )
+
+    # add transparency to the xlabels
+    for l in ax.xaxis.get_ticklabels():
+        l.set_alpha(text_alpha)
+
+    # set the title
+    title = f'Top {n_months} monthly rainfall levels (mm) recorded in {station_name}, {county}'
+    ax.set_title(title, alpha=text_alpha)
