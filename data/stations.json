@@ -1,0 +1,4040 @@
+{
+  "Carlow": [
+    {
+      "id": 2115,
+      "station": "HACKETSTOWN_(Voc.Sch.)",
+      "filename": "dly2115.csv",
+      "lat": 52.857,
+      "lon": -6.552,
+      "header_line_num": 10
+    },
+    {
+      "id": 375,
+      "station": "Oak_Park",
+      "filename": "dly375.csv",
+      "lat": 52.857,
+      "lon": -6.909,
+      "header_line_num": 25
+    },
+    {
+      "id": 6114,
+      "station": "POLLMOUNTY FISH FARM",
+      "filename": "dly6114.csv",
+      "lat": 52.467,
+      "lon": -6.902,
+      "header_line_num": 10
+    },
+    {
+      "id": 4515,
+      "station": "TULLOW_(Ardoyne_Glebe)",
+      "filename": "dly4515.csv",
+      "lat": 52.77,
+      "lon": -6.689,
+      "header_line_num": 10
+    },
+    {
+      "id": 4415,
+      "station": "TULLOW_(Waterworks)",
+      "filename": "dly4415.csv",
+      "lat": 52.803,
+      "lon": -6.739,
+      "header_line_num": 10
+    }
+  ],
+  "Cavan": [
+    {
+      "id": 6337,
+      "station": "ARVAGH(Cormore)",
+      "filename": "dly6337.csv",
+      "lat": 53.906,
+      "lon": -7.537,
+      "header_line_num": 10
+    },
+    {
+      "id": 4131,
+      "station": "BAILIEBORO(Leiter)",
+      "filename": "dly4131.csv",
+      "lat": 53.926,
+      "lon": -7.008,
+      "header_line_num": 10
+    },
+    {
+      "id": 4031,
+      "station": "BAILIEBORO_(Duneena)",
+      "filename": "dly4031.csv",
+      "lat": 53.94,
+      "lon": -7.018,
+      "header_line_num": 10
+    },
+    {
+      "id": 4637,
+      "station": "BALLYCONNELL_(Mullaghduff)",
+      "filename": "dly4637.csv",
+      "lat": 54.104,
+      "lon": -7.568,
+      "header_line_num": 10
+    },
+    {
+      "id": 2030,
+      "station": "BALLYJAMESDUFF_(Kilcully)",
+      "filename": "dly2030.csv",
+      "lat": 53.855,
+      "lon": -7.201,
+      "header_line_num": 10
+    },
+    {
+      "id": 5037,
+      "station": "BELTURBET_(Naughan)",
+      "filename": "dly5037.csv",
+      "lat": 54.134,
+      "lon": -7.437,
+      "header_line_num": 10
+    },
+    {
+      "id": 675,
+      "station": "Ballyhaise",
+      "filename": "dly675.csv",
+      "lat": 54.051,
+      "lon": -7.306,
+      "header_line_num": 25
+    },
+    {
+      "id": 4137,
+      "station": "CAVAN (DRUMCONNICK)",
+      "filename": "dly4137.csv",
+      "lat": 53.991,
+      "lon": -7.391,
+      "header_line_num": 14
+    },
+    {
+      "id": 2037,
+      "station": "CUILCAGH MTNS.",
+      "filename": "dly2037.csv",
+      "lat": 54.16,
+      "lon": -7.801,
+      "header_line_num": 10
+    },
+    {
+      "id": 5837,
+      "station": "KILLESHANDRA_(Bawn)",
+      "filename": "dly5837.csv",
+      "lat": 54.006,
+      "lon": -7.539,
+      "header_line_num": 10
+    },
+    {
+      "id": 5637,
+      "station": "TULLYCO_(Artonagh)",
+      "filename": "dly5637.csv",
+      "lat": 54.002,
+      "lon": -7.171,
+      "header_line_num": 10
+    },
+    {
+      "id": 6031,
+      "station": "VIRGINIA",
+      "filename": "dly6031.csv",
+      "lat": 53.834,
+      "lon": -7.072,
+      "header_line_num": 10
+    }
+  ],
+  "Clare": [
+    {
+      "id": 2321,
+      "station": "BALLYVAUGHAN_Ballyconry",
+      "filename": "dly2321.csv",
+      "lat": 53.12,
+      "lon": -9.168,
+      "header_line_num": 10
+    },
+    {
+      "id": 1718,
+      "station": "CARRON",
+      "filename": "dly1718.csv",
+      "lat": 53.026,
+      "lon": -9.073,
+      "header_line_num": 14
+    },
+    {
+      "id": 718,
+      "station": "COROFIN",
+      "filename": "dly718.csv",
+      "lat": 52.942,
+      "lon": -9.068,
+      "header_line_num": 10
+    },
+    {
+      "id": 2318,
+      "station": "CORROFIN_(Soheen)",
+      "filename": "dly2318.csv",
+      "lat": 52.902,
+      "lon": -9.058,
+      "header_line_num": 10
+    },
+    {
+      "id": 5911,
+      "station": "CRAGGAUNOWEN",
+      "filename": "dly5911.csv",
+      "lat": 52.806,
+      "lon": -8.788,
+      "header_line_num": 14
+    },
+    {
+      "id": 2618,
+      "station": "CRUSHEEN_(Ballinruan)",
+      "filename": "dly2618.csv",
+      "lat": 52.926,
+      "lon": -8.819,
+      "header_line_num": 10
+    },
+    {
+      "id": 2518,
+      "station": "CRUSHEEN_(Cloonawillin)",
+      "filename": "dly2518.csv",
+      "lat": 52.891,
+      "lon": -8.889,
+      "header_line_num": 10
+    },
+    {
+      "id": 1117,
+      "station": "DOO-LOUGH",
+      "filename": "dly1117.csv",
+      "lat": 52.801,
+      "lon": -9.321,
+      "header_line_num": 10
+    },
+    {
+      "id": 418,
+      "station": "DROMOLAND CASTLE",
+      "filename": "dly418.csv",
+      "lat": 52.774,
+      "lon": -8.902,
+      "header_line_num": 10
+    },
+    {
+      "id": 2217,
+      "station": "ENNISTYMON_(Deerpark)",
+      "filename": "dly2217.csv",
+      "lat": 52.937,
+      "lon": -9.285,
+      "header_line_num": 10
+    },
+    {
+      "id": 417,
+      "station": "INAGH-Mt.Callan",
+      "filename": "dly417.csv",
+      "lat": 52.838,
+      "lon": -9.236,
+      "header_line_num": 10
+    },
+    {
+      "id": 6611,
+      "station": "KILBANE_(Clongaheen)",
+      "filename": "dly6611.csv",
+      "lat": 52.804,
+      "lon": -8.576,
+      "header_line_num": 10
+    },
+    {
+      "id": 6711,
+      "station": "KILDYSART_(Cappanavarnogue)",
+      "filename": "dly6711.csv",
+      "lat": 52.656,
+      "lon": -9.117,
+      "header_line_num": 10
+    },
+    {
+      "id": 2117,
+      "station": "KILKEE-(Moveen)",
+      "filename": "dly2117.csv",
+      "lat": 52.639,
+      "lon": -9.685,
+      "header_line_num": 10
+    },
+    {
+      "id": 6019,
+      "station": "KILLALOE DOCKS",
+      "filename": "dly6019.csv",
+      "lat": 52.806,
+      "lon": -8.443,
+      "header_line_num": 10
+    },
+    {
+      "id": 1317,
+      "station": "KILMIHIL_(Shyan)",
+      "filename": "dly1317.csv",
+      "lat": 52.725,
+      "lon": -9.358,
+      "header_line_num": 10
+    },
+    {
+      "id": 2921,
+      "station": "LISDOONVARNA_(Treatment-Plant)",
+      "filename": "dly2921.csv",
+      "lat": 53.021,
+      "lon": -9.306,
+      "header_line_num": 10
+    },
+    {
+      "id": 1417,
+      "station": "MULLAGH_Carrowlagan",
+      "filename": "dly1417.csv",
+      "lat": 52.792,
+      "lon": -9.401,
+      "header_line_num": 14
+    },
+    {
+      "id": 2017,
+      "station": "QUILTY",
+      "filename": "dly2017.csv",
+      "lat": 52.809,
+      "lon": -9.456,
+      "header_line_num": 10
+    },
+    {
+      "id": 6819,
+      "station": "SCARRIFF_(Fossabeg)",
+      "filename": "dly6819.csv",
+      "lat": 52.909,
+      "lon": -8.538,
+      "header_line_num": 10
+    },
+    {
+      "id": 518,
+      "station": "Shannon_Airport",
+      "filename": "dly518.csv",
+      "lat": 52.687,
+      "lon": -8.917,
+      "header_line_num": 25
+    },
+    {
+      "id": 1218,
+      "station": "TULLA",
+      "filename": "dly1218.csv",
+      "lat": 52.868,
+      "lon": -8.756,
+      "header_line_num": 10
+    }
+  ],
+  "Cork": [
+    {
+      "id": 5704,
+      "station": "AHERLAMORE",
+      "filename": "dly5704.csv",
+      "lat": 51.843,
+      "lon": -8.722,
+      "header_line_num": 10
+    },
+    {
+      "id": 6204,
+      "station": "BALLINCURRIG_(Peafield)",
+      "filename": "dly6204.csv",
+      "lat": 52.007,
+      "lon": -8.2,
+      "header_line_num": 14
+    },
+    {
+      "id": 4602,
+      "station": "BALLINEEN_(Carbery)",
+      "filename": "dly4602.csv",
+      "lat": 51.725,
+      "lon": -8.973,
+      "header_line_num": 10
+    },
+    {
+      "id": 5002,
+      "station": "BALLINEEN_Caherkirky",
+      "filename": "dly5002.csv",
+      "lat": 51.688,
+      "lon": -8.985,
+      "header_line_num": 14
+    },
+    {
+      "id": 3004,
+      "station": "BALLINGEARY_(Voc.Sch.)",
+      "filename": "dly3004.csv",
+      "lat": 51.85,
+      "lon": -9.233,
+      "header_line_num": 10
+    },
+    {
+      "id": 5702,
+      "station": "BALLINSPITTLE_(Kilkerran)",
+      "filename": "dly5702.csv",
+      "lat": 51.675,
+      "lon": -8.59,
+      "header_line_num": 10
+    },
+    {
+      "id": 7906,
+      "station": "BALLYHOOLY (CASTLEBLAGH)",
+      "filename": "dly7906.csv",
+      "lat": 52.124,
+      "lon": -8.406,
+      "header_line_num": 10
+    },
+    {
+      "id": 4404,
+      "station": "BALLYMACODA_(Mountcotton)",
+      "filename": "dly4404.csv",
+      "lat": 51.876,
+      "lon": -7.919,
+      "header_line_num": 10
+    },
+    {
+      "id": 5502,
+      "station": "BANDON_WATERWORKS",
+      "filename": "dly5502.csv",
+      "lat": 51.743,
+      "lon": -8.807,
+      "header_line_num": 10
+    },
+    {
+      "id": 6306,
+      "station": "BANTEER LYRE",
+      "filename": "dly6306.csv",
+      "lat": 52.075,
+      "lon": -8.852,
+      "header_line_num": 10
+    },
+    {
+      "id": 2501,
+      "station": "BANTRY-Maulikeeve",
+      "filename": "dly2501.csv",
+      "lat": 51.734,
+      "lon": -9.359,
+      "header_line_num": 10
+    },
+    {
+      "id": 2201,
+      "station": "BANTRY_(Shandrum)",
+      "filename": "dly2201.csv",
+      "lat": 51.708,
+      "lon": -9.417,
+      "header_line_num": 10
+    },
+    {
+      "id": 7006,
+      "station": "BARTLEMY",
+      "filename": "dly7006.csv",
+      "lat": 52.037,
+      "lon": -8.259,
+      "header_line_num": 10
+    },
+    {
+      "id": 5402,
+      "station": "BELGOOLY",
+      "filename": "dly5402.csv",
+      "lat": 51.726,
+      "lon": -8.491,
+      "header_line_num": 10
+    },
+    {
+      "id": 3604,
+      "station": "CARRIGADROHID_(GenStn)",
+      "filename": "dly3604.csv",
+      "lat": 51.892,
+      "lon": -8.858,
+      "header_line_num": 10
+    },
+    {
+      "id": 6004,
+      "station": "CARRIGALINE (KILNAGLEARY)",
+      "filename": "dly6004.csv",
+      "lat": 51.804,
+      "lon": -8.372,
+      "header_line_num": 10
+    },
+    {
+      "id": 8606,
+      "station": "CASTLELYONS (BALLYMACSIMON)",
+      "filename": "dly8606.csv",
+      "lat": 52.057,
+      "lon": -8.153,
+      "header_line_num": 10
+    },
+    {
+      "id": 7504,
+      "station": "CASTLEMARTYR-Dower_Pumphouse",
+      "filename": "dly7504.csv",
+      "lat": 51.905,
+      "lon": -8.025,
+      "header_line_num": 10
+    },
+    {
+      "id": 5202,
+      "station": "CLONAKILTY_(Castleview)",
+      "filename": "dly5202.csv",
+      "lat": 51.642,
+      "lon": -8.822,
+      "header_line_num": 10
+    },
+    {
+      "id": 6304,
+      "station": "CLOYNE (LISANLEY)",
+      "filename": "dly6304.csv",
+      "lat": 51.854,
+      "lon": -8.135,
+      "header_line_num": 14
+    },
+    {
+      "id": 8406,
+      "station": "CONNA (CASTLEVIEW)",
+      "filename": "dly8406.csv",
+      "lat": 52.102,
+      "lon": -8.058,
+      "header_line_num": 10
+    },
+    {
+      "id": 1901,
+      "station": "COOMCLOGH",
+      "filename": "dly1901.csv",
+      "lat": 51.768,
+      "lon": -9.267,
+      "header_line_num": 10
+    },
+    {
+      "id": 5404,
+      "station": "CORK MONTENOTTE",
+      "filename": "dly5404.csv",
+      "lat": 51.903,
+      "lon": -8.441,
+      "header_line_num": 10
+    },
+    {
+      "id": 9006,
+      "station": "Charleville_Golf_Club",
+      "filename": "dly9006.csv",
+      "lat": 52.339,
+      "lon": -8.709,
+      "header_line_num": 10
+    },
+    {
+      "id": 3904,
+      "station": "Cork_Airport",
+      "filename": "dly3904.csv",
+      "lat": 51.842,
+      "lon": -8.485,
+      "header_line_num": 25
+    },
+    {
+      "id": 2804,
+      "station": "DONOUGHMORE",
+      "filename": "dly2804.csv",
+      "lat": 51.987,
+      "lon": -8.737,
+      "header_line_num": 10
+    },
+    {
+      "id": 4502,
+      "station": "DRIMOLEAGUE_(Angram)",
+      "filename": "dly4502.csv",
+      "lat": 51.639,
+      "lon": -9.289,
+      "header_line_num": 10
+    },
+    {
+      "id": 4902,
+      "station": "DUNMANWAY_(Demesne)",
+      "filename": "dly4902.csv",
+      "lat": 51.723,
+      "lon": -9.103,
+      "header_line_num": 10
+    },
+    {
+      "id": 6604,
+      "station": "FOTA ISLAND (GOLF CLUB)",
+      "filename": "dly6604.csv",
+      "lat": 51.892,
+      "lon": -8.291,
+      "header_line_num": 10
+    },
+    {
+      "id": 5806,
+      "station": "FREEMOUNT PUMPING STATION",
+      "filename": "dly5806.csv",
+      "lat": 52.271,
+      "lon": -8.887,
+      "header_line_num": 10
+    },
+    {
+      "id": 7104,
+      "station": "GERNAPEKA",
+      "filename": "dly7104.csv",
+      "lat": 51.837,
+      "lon": -9.301,
+      "header_line_num": 10
+    },
+    {
+      "id": 201,
+      "station": "GLENGARRIFF (Ilnacullin)",
+      "filename": "dly201.csv",
+      "lat": 51.734,
+      "lon": -9.541,
+      "header_line_num": 14
+    },
+    {
+      "id": 4802,
+      "station": "GOLEEN",
+      "filename": "dly4802.csv",
+      "lat": 51.504,
+      "lon": -9.702,
+      "header_line_num": 10
+    },
+    {
+      "id": 3704,
+      "station": "INISHCARRA (GEN.STN.)",
+      "filename": "dly3704.csv",
+      "lat": 51.9,
+      "lon": -8.657,
+      "header_line_num": 10
+    },
+    {
+      "id": 1406,
+      "station": "KANTURK_(Voc.Sch.)",
+      "filename": "dly1406.csv",
+      "lat": 52.173,
+      "lon": -8.9,
+      "header_line_num": 10
+    },
+    {
+      "id": 4904,
+      "station": "KILLEAGH_(Monabraher)",
+      "filename": "dly4904.csv",
+      "lat": 51.973,
+      "lon": -7.985,
+      "header_line_num": 10
+    },
+    {
+      "id": 7304,
+      "station": "KILLEAGH_Mogeely",
+      "filename": "dly7304.csv",
+      "lat": 51.939,
+      "lon": -8.023,
+      "header_line_num": 10
+    },
+    {
+      "id": 2802,
+      "station": "KINSALE_(Voc.Sch.)",
+      "filename": "dly2802.csv",
+      "lat": 51.704,
+      "lon": -8.524,
+      "header_line_num": 10
+    },
+    {
+      "id": 8706,
+      "station": "Kilworth-Kilally",
+      "filename": "dly8706.csv",
+      "lat": 52.186,
+      "lon": -8.255,
+      "header_line_num": 10
+    },
+    {
+      "id": 6504,
+      "station": "LITTLE ISLAND",
+      "filename": "dly6504.csv",
+      "lat": 51.909,
+      "lon": -8.353,
+      "header_line_num": 10
+    },
+    {
+      "id": 8806,
+      "station": "LOMBARDSTOWN-Gortmore",
+      "filename": "dly8806.csv",
+      "lat": 52.106,
+      "lon": -8.808,
+      "header_line_num": 10
+    },
+    {
+      "id": 6206,
+      "station": "LOMBARDSTOWN_(Drompeach)",
+      "filename": "dly6206.csv",
+      "lat": 52.091,
+      "lon": -8.784,
+      "header_line_num": 10
+    },
+    {
+      "id": 9604,
+      "station": "M.BALLINGEARY_(Meelin-Mtn.)",
+      "filename": "dly9604.csv",
+      "lat": 51.887,
+      "lon": -9.25,
+      "header_line_num": 10
+    },
+    {
+      "id": 9704,
+      "station": "M.BALLINGEARY_(Tooreenaneen)",
+      "filename": "dly9704.csv",
+      "lat": 51.822,
+      "lon": -9.257,
+      "header_line_num": 10
+    },
+    {
+      "id": 9804,
+      "station": "M.BALLYVOURNEY_(Knockacommeen)",
+      "filename": "dly9804.csv",
+      "lat": 51.97,
+      "lon": -9.22,
+      "header_line_num": 10
+    },
+    {
+      "id": 9904,
+      "station": "M.INCHIGEELAGH_(Pipe-Hill)",
+      "filename": "dly9904.csv",
+      "lat": 51.803,
+      "lon": -9.155,
+      "header_line_num": 10
+    },
+    {
+      "id": 7204,
+      "station": "MACROOM_(Cahirbaroule)",
+      "filename": "dly7204.csv",
+      "lat": 51.951,
+      "lon": -8.924,
+      "header_line_num": 10
+    },
+    {
+      "id": 5204,
+      "station": "MACROOM_(Curraleigh)",
+      "filename": "dly5204.csv",
+      "lat": 51.971,
+      "lon": -9.07,
+      "header_line_num": 10
+    },
+    {
+      "id": 3804,
+      "station": "MACROOM_(Renaniree)",
+      "filename": "dly3804.csv",
+      "lat": 51.9,
+      "lon": -9.157,
+      "header_line_num": 10
+    },
+    {
+      "id": 9306,
+      "station": "MALLOW-Racecourse",
+      "filename": "dly9306.csv",
+      "lat": 52.124,
+      "lon": -8.684,
+      "header_line_num": 10
+    },
+    {
+      "id": 7406,
+      "station": "MALLOW_(SpaHouse)",
+      "filename": "dly7406.csv",
+      "lat": 52.137,
+      "lon": -8.634,
+      "header_line_num": 14
+    },
+    {
+      "id": 706,
+      "station": "MALLOW_Hazelwood",
+      "filename": "dly706.csv",
+      "lat": 52.187,
+      "lon": -8.65,
+      "header_line_num": 14
+    },
+    {
+      "id": 6506,
+      "station": "MILLSTREET SEWAGE WORKS",
+      "filename": "dly6506.csv",
+      "lat": 52.06,
+      "lon": -9.055,
+      "header_line_num": 10
+    },
+    {
+      "id": 6906,
+      "station": "MILLSTREET_(Coomlogane)",
+      "filename": "dly6906.csv",
+      "lat": 52.059,
+      "lon": -9.074,
+      "header_line_num": 10
+    },
+    {
+      "id": 8206,
+      "station": "MITCHELSTOWN_(Glenatluckey)",
+      "filename": "dly8206.csv",
+      "lat": 52.237,
+      "lon": -8.242,
+      "header_line_num": 10
+    },
+    {
+      "id": 8906,
+      "station": "MUSHERA",
+      "filename": "dly8906.csv",
+      "lat": 52.023,
+      "lon": -9.001,
+      "header_line_num": 10
+    },
+    {
+      "id": 6104,
+      "station": "MUSKERRY (GOLF CLUB)",
+      "filename": "dly6104.csv",
+      "lat": 51.918,
+      "lon": -8.606,
+      "header_line_num": 10
+    },
+    {
+      "id": 575,
+      "station": "Moore_Park",
+      "filename": "dly575.csv",
+      "lat": 52.158,
+      "lon": -8.258,
+      "header_line_num": 25
+    },
+    {
+      "id": 5206,
+      "station": "NEWMARKET BALLINATONA P.H.",
+      "filename": "dly5206.csv",
+      "lat": 52.255,
+      "lon": -9.043,
+      "header_line_num": 10
+    },
+    {
+      "id": 7306,
+      "station": "NEWMARKET_(New-Street)",
+      "filename": "dly7306.csv",
+      "lat": 52.209,
+      "lon": -9.001,
+      "header_line_num": 10
+    },
+    {
+      "id": 3210,
+      "station": "ROCKCHAPEL",
+      "filename": "dly3210.csv",
+      "lat": 52.287,
+      "lon": -9.126,
+      "header_line_num": 10
+    },
+    {
+      "id": 4202,
+      "station": "ROSSCARBERY_(Froe)",
+      "filename": "dly4202.csv",
+      "lat": 51.59,
+      "lon": -9.034,
+      "header_line_num": 10
+    },
+    {
+      "id": 1075,
+      "station": "Roches_Point",
+      "filename": "dly1075.csv",
+      "lat": 51.789,
+      "lon": -8.24,
+      "header_line_num": 25
+    },
+    {
+      "id": 5004,
+      "station": "SHANAGARRY NORTH",
+      "filename": "dly5004.csv",
+      "lat": 51.856,
+      "lon": -8.034,
+      "header_line_num": 10
+    },
+    {
+      "id": 3402,
+      "station": "SHERKIN ISLAND",
+      "filename": "dly3402.csv",
+      "lat": 51.472,
+      "lon": -9.424,
+      "header_line_num": 14
+    },
+    {
+      "id": 4302,
+      "station": "SKIBEREEN_(WaterTreatmentPlant)",
+      "filename": "dly4302.csv",
+      "lat": 51.571,
+      "lon": -9.269,
+      "header_line_num": 10
+    },
+    {
+      "id": 775,
+      "station": "SherkinIsland",
+      "filename": "dly775.csv",
+      "lat": 51.472,
+      "lon": -9.423,
+      "header_line_num": 25
+    },
+    {
+      "id": 7404,
+      "station": "UCC",
+      "filename": "dly7404.csv",
+      "lat": 51.893,
+      "lon": -8.485,
+      "header_line_num": 14
+    },
+    {
+      "id": 5804,
+      "station": "WATERGRASSHILL_(Tinageragh)",
+      "filename": "dly5804.csv",
+      "lat": 52.008,
+      "lon": -8.342,
+      "header_line_num": 10
+    }
+  ],
+  "Donegal": [
+    {
+      "id": 2440,
+      "station": "ARDNAWARK BARNESMORE",
+      "filename": "dly2440.csv",
+      "lat": 54.704,
+      "lon": -7.973,
+      "header_line_num": 10
+    },
+    {
+      "id": 1642,
+      "station": "BALLYBOFEY NAVENNY",
+      "filename": "dly1642.csv",
+      "lat": 54.789,
+      "lon": -7.77,
+      "header_line_num": 10
+    },
+    {
+      "id": 2237,
+      "station": "BALLYSHANNON (CATHLEENS FALL)",
+      "filename": "dly2237.csv",
+      "lat": 54.492,
+      "lon": -8.172,
+      "header_line_num": 14
+    },
+    {
+      "id": 3237,
+      "station": "BALLYSHANNON (CHERRYMOUNT)",
+      "filename": "dly3237.csv",
+      "lat": 54.488,
+      "lon": -8.153,
+      "header_line_num": 10
+    },
+    {
+      "id": 1544,
+      "station": "BLOODY FORELAND",
+      "filename": "dly1544.csv",
+      "lat": 55.139,
+      "lon": -8.223,
+      "header_line_num": 10
+    },
+    {
+      "id": 2640,
+      "station": "BRUCKLESS",
+      "filename": "dly2640.csv",
+      "lat": 54.635,
+      "lon": -8.385,
+      "header_line_num": 10
+    },
+    {
+      "id": 645,
+      "station": "CARNDONAGH_(Rocksmount)_II",
+      "filename": "dly645.csv",
+      "lat": 55.255,
+      "lon": -7.237,
+      "header_line_num": 10
+    },
+    {
+      "id": 1942,
+      "station": "CARRIGANS-Kildrum",
+      "filename": "dly1942.csv",
+      "lat": 54.974,
+      "lon": -7.409,
+      "header_line_num": 10
+    },
+    {
+      "id": 844,
+      "station": "CREESLOUGH-Brockagh",
+      "filename": "dly844.csv",
+      "lat": 55.075,
+      "lon": -7.972,
+      "header_line_num": 10
+    },
+    {
+      "id": 944,
+      "station": "CREESLOUGH_(Carrownamaddy)",
+      "filename": "dly944.csv",
+      "lat": 55.133,
+      "lon": -7.95,
+      "header_line_num": 10
+    },
+    {
+      "id": 1641,
+      "station": "CROLLY_(Filter-Works)",
+      "filename": "dly1641.csv",
+      "lat": 55.006,
+      "lon": -8.25,
+      "header_line_num": 10
+    },
+    {
+      "id": 1941,
+      "station": "DERRYHENNY DOOCHARY",
+      "filename": "dly1941.csv",
+      "lat": 54.876,
+      "lon": -8.252,
+      "header_line_num": 10
+    },
+    {
+      "id": 1944,
+      "station": "DUNFANAGHY-Murroe",
+      "filename": "dly1944.csv",
+      "lat": 55.153,
+      "lon": -8.006,
+      "header_line_num": 10
+    },
+    {
+      "id": 2341,
+      "station": "DUNGLOE",
+      "filename": "dly2341.csv",
+      "lat": 54.941,
+      "lon": -8.368,
+      "header_line_num": 10
+    },
+    {
+      "id": 2641,
+      "station": "DUNLEWY_LOUGH",
+      "filename": "dly2641.csv",
+      "lat": 55.021,
+      "lon": -8.119,
+      "header_line_num": 10
+    },
+    {
+      "id": 1844,
+      "station": "FALCARRAGH-Lough_Altan",
+      "filename": "dly1844.csv",
+      "lat": 55.075,
+      "lon": -8.093,
+      "header_line_num": 14
+    },
+    {
+      "id": 1742,
+      "station": "FINTOWN_Kingarrow",
+      "filename": "dly1742.csv",
+      "lat": 54.891,
+      "lon": -8.054,
+      "header_line_num": 10
+    },
+    {
+      "id": 2075,
+      "station": "Finner",
+      "filename": "dly2075.csv",
+      "lat": 54.49,
+      "lon": -8.239,
+      "header_line_num": 25
+    },
+    {
+      "id": 2044,
+      "station": "GLENVEAGH CASTLE",
+      "filename": "dly2044.csv",
+      "lat": 55.035,
+      "lon": -7.967,
+      "header_line_num": 14
+    },
+    {
+      "id": 542,
+      "station": "GREENCASTLE",
+      "filename": "dly542.csv",
+      "lat": 55.206,
+      "lon": -6.985,
+      "header_line_num": 10
+    },
+    {
+      "id": 2441,
+      "station": "GWEEDORE WEIR",
+      "filename": "dly2441.csv",
+      "lat": 55.043,
+      "lon": -8.225,
+      "header_line_num": 10
+    },
+    {
+      "id": 441,
+      "station": "Glenties_Hatchery",
+      "filename": "dly441.csv",
+      "lat": 54.788,
+      "lon": -8.286,
+      "header_line_num": 14
+    },
+    {
+      "id": 1443,
+      "station": "ILLIES (POLLAN DAM WATERWORKS)",
+      "filename": "dly1443.csv",
+      "lat": 55.151,
+      "lon": -7.342,
+      "header_line_num": 10
+    },
+    {
+      "id": 2340,
+      "station": "KILCAR_Cronasillagh",
+      "filename": "dly2340.csv",
+      "lat": 54.639,
+      "lon": -8.54,
+      "header_line_num": 10
+    },
+    {
+      "id": 2241,
+      "station": "KILCLOONEY MORE",
+      "filename": "dly2241.csv",
+      "lat": 54.807,
+      "lon": -8.438,
+      "header_line_num": 10
+    },
+    {
+      "id": 2042,
+      "station": "KILLYGORDON-Ballyarrell",
+      "filename": "dly2042.csv",
+      "lat": 54.788,
+      "lon": -7.653,
+      "header_line_num": 10
+    },
+    {
+      "id": 1543,
+      "station": "KILMACRENNAN (MASSREAGH)",
+      "filename": "dly1543.csv",
+      "lat": 55.024,
+      "lon": -7.784,
+      "header_line_num": 10
+    },
+    {
+      "id": 2041,
+      "station": "KINCASSLAGH",
+      "filename": "dly2041.csv",
+      "lat": 55.021,
+      "lon": -8.385,
+      "header_line_num": 10
+    },
+    {
+      "id": 1043,
+      "station": "LETTERKENNY-Dromore",
+      "filename": "dly1043.csv",
+      "lat": 54.941,
+      "lon": -7.674,
+      "header_line_num": 10
+    },
+    {
+      "id": 9641,
+      "station": "M.GLENTORNAN (GROGAN MORE)",
+      "filename": "dly9641.csv",
+      "lat": 55.008,
+      "lon": -8.221,
+      "header_line_num": 10
+    },
+    {
+      "id": 9741,
+      "station": "M.GLENTORNAN (L.NABRUCKBADDY)",
+      "filename": "dly9741.csv",
+      "lat": 55.008,
+      "lon": -8.208,
+      "header_line_num": 10
+    },
+    {
+      "id": 9942,
+      "station": "M.GREENCASTLE (CRAUGHAULIN MTN)",
+      "filename": "dly9942.csv",
+      "lat": 55.219,
+      "lon": -7.017,
+      "header_line_num": 10
+    },
+    {
+      "id": 9940,
+      "station": "M.LOUGH ESKE (BURNS MTN.)",
+      "filename": "dly9940.csv",
+      "lat": 54.703,
+      "lon": -8.087,
+      "header_line_num": 10
+    },
+    {
+      "id": 1575,
+      "station": "Malin_head",
+      "filename": "dly1575.csv",
+      "lat": 55.37,
+      "lon": -7.337,
+      "header_line_num": 25
+    },
+    {
+      "id": 5737,
+      "station": "PETTIGO-Belault",
+      "filename": "dly5737.csv",
+      "lat": 54.542,
+      "lon": -7.888,
+      "header_line_num": 10
+    },
+    {
+      "id": 1042,
+      "station": "PETTIGO-Lough_Derg",
+      "filename": "dly1042.csv",
+      "lat": 54.604,
+      "lon": -7.856,
+      "header_line_num": 10
+    },
+    {
+      "id": 2242,
+      "station": "QUIGLEYS POINT (THREE TREES)",
+      "filename": "dly2242.csv",
+      "lat": 55.104,
+      "lon": -7.21,
+      "header_line_num": 10
+    },
+    {
+      "id": 2342,
+      "station": "RAPHOE (TOPS)",
+      "filename": "dly2342.csv",
+      "lat": 54.843,
+      "lon": -7.593,
+      "header_line_num": 14
+    },
+    {
+      "id": 1242,
+      "station": "STRANORLAR-Cavan_Lower",
+      "filename": "dly1242.csv",
+      "lat": 54.803,
+      "lon": -7.724,
+      "header_line_num": 10
+    },
+    {
+      "id": 1143,
+      "station": "TERMON (GOLDRUM)",
+      "filename": "dly1143.csv",
+      "lat": 55.057,
+      "lon": -7.805,
+      "header_line_num": 10
+    }
+  ],
+  "Dublin": [
+    {
+      "id": 6623,
+      "station": "BALLYBODEN",
+      "filename": "dly6623.csv",
+      "lat": 53.272,
+      "lon": -6.303,
+      "header_line_num": 10
+    },
+    {
+      "id": 3524,
+      "station": "BALLYEDMONDUFF HOUSE",
+      "filename": "dly3524.csv",
+      "lat": 53.233,
+      "lon": -6.222,
+      "header_line_num": 10
+    },
+    {
+      "id": 7923,
+      "station": "BRITTAS (GLENARANEEN)",
+      "filename": "dly7923.csv",
+      "lat": 53.251,
+      "lon": -6.451,
+      "header_line_num": 10
+    },
+    {
+      "id": 3723,
+      "station": "Casement",
+      "filename": "dly3723.csv",
+      "lat": 53.303,
+      "lon": -6.437,
+      "header_line_num": 25
+    },
+    {
+      "id": 1823,
+      "station": "DUBLIN (GLASNEVIN)",
+      "filename": "dly1823.csv",
+      "lat": 53.369,
+      "lon": -6.27,
+      "header_line_num": 14
+    },
+    {
+      "id": 3923,
+      "station": "DUBLIN (MERRION SQUARE)",
+      "filename": "dly3923.csv",
+      "lat": 53.337,
+      "lon": -6.252,
+      "header_line_num": 14
+    },
+    {
+      "id": 2523,
+      "station": "DUBLIN (RINGSEND)",
+      "filename": "dly2523.csv",
+      "lat": 53.338,
+      "lon": -6.208,
+      "header_line_num": 10
+    },
+    {
+      "id": 7523,
+      "station": "DUBLIN (SIMMONSCOURT)",
+      "filename": "dly7523.csv",
+      "lat": 53.322,
+      "lon": -6.222,
+      "header_line_num": 10
+    },
+    {
+      "id": 9223,
+      "station": "DUN LAOGHAIRE",
+      "filename": "dly9223.csv",
+      "lat": 53.285,
+      "lon": -6.126,
+      "header_line_num": 14
+    },
+    {
+      "id": 532,
+      "station": "Dublin_Airport",
+      "filename": "dly532.csv",
+      "lat": 53.423,
+      "lon": -6.238,
+      "header_line_num": 26
+    },
+    {
+      "id": 5623,
+      "station": "GLENASMOLE (SUPTS LODGE)",
+      "filename": "dly5623.csv",
+      "lat": 53.237,
+      "lon": -6.358,
+      "header_line_num": 10
+    },
+    {
+      "id": 1923,
+      "station": "GLENASMOLE D.C.W.W.",
+      "filename": "dly1923.csv",
+      "lat": 53.237,
+      "lon": -6.367,
+      "header_line_num": 10
+    },
+    {
+      "id": 1332,
+      "station": "MALAHIDE CASTLE",
+      "filename": "dly1332.csv",
+      "lat": 53.44,
+      "lon": -6.157,
+      "header_line_num": 10
+    },
+    {
+      "id": 7775,
+      "station": "Met_Eireann_Glasnevin",
+      "filename": "dly7775.csv",
+      "lat": 53.167,
+      "lon": -6.333,
+      "header_line_num": 10
+    },
+    {
+      "id": 175,
+      "station": "PhoenixPark",
+      "filename": "dly175.csv",
+      "lat": 53.358,
+      "lon": -6.342,
+      "header_line_num": 15
+    }
+  ],
+  "Galway": [
+    {
+      "id": 2821,
+      "station": "ARDRAHAN_(Grannagh)",
+      "filename": "dly2821.csv",
+      "lat": 53.142,
+      "lon": -8.74,
+      "header_line_num": 10
+    },
+    {
+      "id": 1875,
+      "station": "Athenry",
+      "filename": "dly1875.csv",
+      "lat": 53.287,
+      "lon": -8.785,
+      "header_line_num": 25
+    },
+    {
+      "id": 2628,
+      "station": "BALLINASLOE_(Derrymullen)",
+      "filename": "dly2628.csv",
+      "lat": 53.338,
+      "lon": -8.251,
+      "header_line_num": 10
+    },
+    {
+      "id": 2828,
+      "station": "BALLINASLOE_(Pollboy_Lock)",
+      "filename": "dly2828.csv",
+      "lat": 53.308,
+      "lon": -8.188,
+      "header_line_num": 10
+    },
+    {
+      "id": 2528,
+      "station": "BALLYFORAN (BORD NA MONA)",
+      "filename": "dly2528.csv",
+      "lat": 53.437,
+      "lon": -8.302,
+      "header_line_num": 14
+    },
+    {
+      "id": 2225,
+      "station": "CAMUS",
+      "filename": "dly2225.csv",
+      "lat": 53.371,
+      "lon": -9.556,
+      "header_line_num": 10
+    },
+    {
+      "id": 2018,
+      "station": "CARHEENY BEG",
+      "filename": "dly2018.csv",
+      "lat": 52.991,
+      "lon": -8.825,
+      "header_line_num": 10
+    },
+    {
+      "id": 2227,
+      "station": "CARNDOLLA",
+      "filename": "dly2227.csv",
+      "lat": 53.402,
+      "lon": -9.009,
+      "header_line_num": 10
+    },
+    {
+      "id": 2126,
+      "station": "CLEGGAN_(Cloch_Breac)",
+      "filename": "dly2126.csv",
+      "lat": 53.553,
+      "lon": -10.106,
+      "header_line_num": 10
+    },
+    {
+      "id": 2226,
+      "station": "CLIFDEN",
+      "filename": "dly2226.csv",
+      "lat": 53.475,
+      "lon": -10.021,
+      "header_line_num": 10
+    },
+    {
+      "id": 1425,
+      "station": "CLOOSH (FOR.STN.)",
+      "filename": "dly1425.csv",
+      "lat": 53.356,
+      "lon": -9.337,
+      "header_line_num": 14
+    },
+    {
+      "id": 1225,
+      "station": "COSTELLOE FISHERY",
+      "filename": "dly1225.csv",
+      "lat": 53.276,
+      "lon": -9.536,
+      "header_line_num": 10
+    },
+    {
+      "id": 2521,
+      "station": "CRAUGHWELL_(Grenage)",
+      "filename": "dly2521.csv",
+      "lat": 53.223,
+      "lon": -8.752,
+      "header_line_num": 10
+    },
+    {
+      "id": 3127,
+      "station": "GLENAMADDY_(Gortnagier)",
+      "filename": "dly3127.csv",
+      "lat": 53.592,
+      "lon": -8.558,
+      "header_line_num": 10
+    },
+    {
+      "id": 2121,
+      "station": "GORT-Derrybrien_II",
+      "filename": "dly2121.csv",
+      "lat": 53.06,
+      "lon": -8.601,
+      "header_line_num": 10
+    },
+    {
+      "id": 4527,
+      "station": "HEADFORD O.P.W.",
+      "filename": "dly4527.csv",
+      "lat": 53.469,
+      "lon": -9.101,
+      "header_line_num": 10
+    },
+    {
+      "id": 2026,
+      "station": "INISHBOFIN",
+      "filename": "dly2026.csv",
+      "lat": 53.618,
+      "lon": -10.185,
+      "header_line_num": 10
+    },
+    {
+      "id": 2221,
+      "station": "INISHERE",
+      "filename": "dly2221.csv",
+      "lat": 53.059,
+      "lon": -9.52,
+      "header_line_num": 10
+    },
+    {
+      "id": 1925,
+      "station": "INISHMORE",
+      "filename": "dly1925.csv",
+      "lat": 53.124,
+      "lon": -9.685,
+      "header_line_num": 10
+    },
+    {
+      "id": 2719,
+      "station": "KILTORMER",
+      "filename": "dly2719.csv",
+      "lat": 53.237,
+      "lon": -8.269,
+      "header_line_num": 10
+    },
+    {
+      "id": 2626,
+      "station": "KYLEMORE ABBEY GARDENS",
+      "filename": "dly2626.csv",
+      "lat": 53.558,
+      "lon": -9.907,
+      "header_line_num": 10
+    },
+    {
+      "id": 2726,
+      "station": "LEENANE-Glanagimla",
+      "filename": "dly2726.csv",
+      "lat": 53.603,
+      "lon": -9.668,
+      "header_line_num": 10
+    },
+    {
+      "id": 2721,
+      "station": "LOUGHREA-(Rathruddy_West)",
+      "filename": "dly2721.csv",
+      "lat": 53.207,
+      "lon": -8.56,
+      "header_line_num": 10
+    },
+    {
+      "id": 9827,
+      "station": "M.MAAM (MT.RINAVORE)",
+      "filename": "dly9827.csv",
+      "lat": 53.556,
+      "lon": -9.624,
+      "header_line_num": 10
+    },
+    {
+      "id": 4827,
+      "station": "MAAM VALLEY",
+      "filename": "dly4827.csv",
+      "lat": 53.535,
+      "lon": -9.605,
+      "header_line_num": 14
+    },
+    {
+      "id": 3027,
+      "station": "MILLTOWN",
+      "filename": "dly3027.csv",
+      "lat": 53.607,
+      "lon": -8.889,
+      "header_line_num": 10
+    },
+    {
+      "id": 2526,
+      "station": "MOYARD-(Shanbolard)",
+      "filename": "dly2526.csv",
+      "lat": 53.557,
+      "lon": -10.055,
+      "header_line_num": 10
+    },
+    {
+      "id": 5527,
+      "station": "MOYCULLEN-Loughwell",
+      "filename": "dly5527.csv",
+      "lat": 53.305,
+      "lon": -9.223,
+      "header_line_num": 10
+    },
+    {
+      "id": 275,
+      "station": "Mace_Head",
+      "filename": "dly275.csv",
+      "lat": 53.322,
+      "lon": -9.901,
+      "header_line_num": 25
+    },
+    {
+      "id": 5427,
+      "station": "OUGHTERARD_GOLF_CLUB",
+      "filename": "dly5427.csv",
+      "lat": 53.42,
+      "lon": -9.284,
+      "header_line_num": 10
+    },
+    {
+      "id": 1819,
+      "station": "PORTUMNA O.P.W.",
+      "filename": "dly1819.csv",
+      "lat": 53.088,
+      "lon": -8.188,
+      "header_line_num": 10
+    },
+    {
+      "id": 1725,
+      "station": "ROUNDSTONE",
+      "filename": "dly1725.csv",
+      "lat": 53.41,
+      "lon": -9.917,
+      "header_line_num": 10
+    },
+    {
+      "id": 3021,
+      "station": "WOODLAWN",
+      "filename": "dly3021.csv",
+      "lat": 53.334,
+      "lon": -8.468,
+      "header_line_num": 10
+    }
+  ],
+  "Kerry": [
+    {
+      "id": 1609,
+      "station": "ARDFERT (LISCAHANE)",
+      "filename": "dly1609.csv",
+      "lat": 52.307,
+      "lon": -9.771,
+      "header_line_num": 14
+    },
+    {
+      "id": 2009,
+      "station": "ARDFERT BALLYMACQUINN",
+      "filename": "dly2009.csv",
+      "lat": 52.37,
+      "lon": -9.808,
+      "header_line_num": 10
+    },
+    {
+      "id": 4105,
+      "station": "BALLINSKELLIGS THE GLEN",
+      "filename": "dly4105.csv",
+      "lat": 51.851,
+      "lon": -10.325,
+      "header_line_num": 10
+    },
+    {
+      "id": 6006,
+      "station": "BALLYDESMOND",
+      "filename": "dly6006.csv",
+      "lat": 52.175,
+      "lon": -9.24,
+      "header_line_num": 10
+    },
+    {
+      "id": 3605,
+      "station": "BAWNASKEHY CASTLEISLAND",
+      "filename": "dly3605.csv",
+      "lat": 52.201,
+      "lon": -9.436,
+      "header_line_num": 10
+    },
+    {
+      "id": 1205,
+      "station": "CASTLEISLAND (COOM)",
+      "filename": "dly1205.csv",
+      "lat": 52.233,
+      "lon": -9.353,
+      "header_line_num": 10
+    },
+    {
+      "id": 4905,
+      "station": "CASTLEISLAND (KILMURRY)",
+      "filename": "dly4905.csv",
+      "lat": 52.235,
+      "lon": -9.373,
+      "header_line_num": 10
+    },
+    {
+      "id": 509,
+      "station": "CLOGHANE",
+      "filename": "dly509.csv",
+      "lat": 52.224,
+      "lon": -10.174,
+      "header_line_num": 10
+    },
+    {
+      "id": 1705,
+      "station": "CLOONE LAKE (CARAGH RIVER AREA)",
+      "filename": "dly1705.csv",
+      "lat": 51.939,
+      "lon": -9.871,
+      "header_line_num": 10
+    },
+    {
+      "id": 4505,
+      "station": "DEREEN",
+      "filename": "dly4505.csv",
+      "lat": 51.891,
+      "lon": -10.237,
+      "header_line_num": 10
+    },
+    {
+      "id": 1803,
+      "station": "DERRIANA",
+      "filename": "dly1803.csv",
+      "lat": 51.889,
+      "lon": -10.023,
+      "header_line_num": 10
+    },
+    {
+      "id": 1909,
+      "station": "DINGLE (BAILE NA NGALL)",
+      "filename": "dly1909.csv",
+      "lat": 52.202,
+      "lon": -10.357,
+      "header_line_num": 10
+    },
+    {
+      "id": 4705,
+      "station": "DOOKS",
+      "filename": "dly4705.csv",
+      "lat": 52.067,
+      "lon": -9.923,
+      "header_line_num": 14
+    },
+    {
+      "id": 405,
+      "station": "GAP OF DUNLOE",
+      "filename": "dly405.csv",
+      "lat": 51.973,
+      "lon": -9.62,
+      "header_line_num": 10
+    },
+    {
+      "id": 5305,
+      "station": "GLENBEIGH-Dooks",
+      "filename": "dly5305.csv",
+      "lat": 52.073,
+      "lon": -9.905,
+      "header_line_num": 10
+    },
+    {
+      "id": 3905,
+      "station": "GLENCAR (DREENAGH)",
+      "filename": "dly3905.csv",
+      "lat": 52.002,
+      "lon": -9.904,
+      "header_line_num": 10
+    },
+    {
+      "id": 1605,
+      "station": "GLENVICKEE (CARAGH RIVER AREA)",
+      "filename": "dly1605.csv",
+      "lat": 51.971,
+      "lon": -9.824,
+      "header_line_num": 10
+    },
+    {
+      "id": 1903,
+      "station": "KENMARE",
+      "filename": "dly1903.csv",
+      "lat": 51.876,
+      "lon": -9.586,
+      "header_line_num": 10
+    },
+    {
+      "id": 603,
+      "station": "KENMARE (DERREEN)",
+      "filename": "dly603.csv",
+      "lat": 51.768,
+      "lon": -9.775,
+      "header_line_num": 10
+    },
+    {
+      "id": 1603,
+      "station": "KILGARVAN (GORTNABOUL)",
+      "filename": "dly1603.csv",
+      "lat": 51.901,
+      "lon": -9.438,
+      "header_line_num": 10
+    },
+    {
+      "id": 3205,
+      "station": "KILLARNEY (MUCKROSS HSE.)",
+      "filename": "dly3205.csv",
+      "lat": 52.017,
+      "lon": -9.492,
+      "header_line_num": 14
+    },
+    {
+      "id": 705,
+      "station": "KILLORGLIN (CALLINAFERCY)",
+      "filename": "dly705.csv",
+      "lat": 52.133,
+      "lon": -9.783,
+      "header_line_num": 10
+    },
+    {
+      "id": 5205,
+      "station": "KNIGHTSTOWN",
+      "filename": "dly5205.csv",
+      "lat": 51.922,
+      "lon": -10.3,
+      "header_line_num": 10
+    },
+    {
+      "id": 2710,
+      "station": "KNOCKNAGOSHEL (MEINLEITRIM)",
+      "filename": "dly2710.csv",
+      "lat": 52.29,
+      "lon": -9.372,
+      "header_line_num": 10
+    },
+    {
+      "id": 3410,
+      "station": "LISTOWEL-Bunaghara",
+      "filename": "dly3410.csv",
+      "lat": 52.439,
+      "lon": -9.42,
+      "header_line_num": 14
+    },
+    {
+      "id": 3010,
+      "station": "LISTOWEL_(Gurtocloghane)",
+      "filename": "dly3010.csv",
+      "lat": 52.372,
+      "lon": -9.468,
+      "header_line_num": 14
+    },
+    {
+      "id": 9005,
+      "station": "M.BALLAGHBEAMA GAP",
+      "filename": "dly9005.csv",
+      "lat": 51.939,
+      "lon": -9.807,
+      "header_line_num": 10
+    },
+    {
+      "id": 8905,
+      "station": "M.BEENREAGH MTN.",
+      "filename": "dly8905.csv",
+      "lat": 52.003,
+      "lon": -9.95,
+      "header_line_num": 10
+    },
+    {
+      "id": 9103,
+      "station": "M.CUMMERAGH NO.1",
+      "filename": "dly9103.csv",
+      "lat": 51.875,
+      "lon": -10.018,
+      "header_line_num": 10
+    },
+    {
+      "id": 9203,
+      "station": "M.CUMMERAGH NO.2",
+      "filename": "dly9203.csv",
+      "lat": 51.872,
+      "lon": -9.983,
+      "header_line_num": 10
+    },
+    {
+      "id": 9303,
+      "station": "M.CUMMERAGH NO.3",
+      "filename": "dly9303.csv",
+      "lat": 51.868,
+      "lon": -9.971,
+      "header_line_num": 10
+    },
+    {
+      "id": 9403,
+      "station": "M.CUMMERAGH NO.4",
+      "filename": "dly9403.csv",
+      "lat": 51.856,
+      "lon": -10.002,
+      "header_line_num": 10
+    },
+    {
+      "id": 9503,
+      "station": "M.CUMMERAGH NO.5",
+      "filename": "dly9503.csv",
+      "lat": 51.852,
+      "lon": -10.055,
+      "header_line_num": 10
+    },
+    {
+      "id": 9406,
+      "station": "RATHMORE_Bounard",
+      "filename": "dly9406.csv",
+      "lat": 52.088,
+      "lon": -9.292,
+      "header_line_num": 10
+    },
+    {
+      "id": 4605,
+      "station": "ROADS",
+      "filename": "dly4605.csv",
+      "lat": 52.018,
+      "lon": -10.137,
+      "header_line_num": 10
+    },
+    {
+      "id": 1103,
+      "station": "SNEEM",
+      "filename": "dly1103.csv",
+      "lat": 51.837,
+      "lon": -9.902,
+      "header_line_num": 10
+    },
+    {
+      "id": 1509,
+      "station": "TRALEE (LISABOULA)",
+      "filename": "dly1509.csv",
+      "lat": 52.224,
+      "lon": -9.642,
+      "header_line_num": 10
+    },
+    {
+      "id": 1209,
+      "station": "TRALEE U.D.C.",
+      "filename": "dly1209.csv",
+      "lat": 52.267,
+      "lon": -9.707,
+      "header_line_num": 10
+    },
+    {
+      "id": 3705,
+      "station": "VENTRY THE BOAT SLIP",
+      "filename": "dly3705.csv",
+      "lat": 52.126,
+      "lon": -10.356,
+      "header_line_num": 10
+    },
+    {
+      "id": 2275,
+      "station": "Valentia_Observatory",
+      "filename": "dly2275.csv",
+      "lat": 51.936,
+      "lon": -10.238,
+      "header_line_num": 25
+    },
+    {
+      "id": 703,
+      "station": "WATERVILLE OCTIVE NO.9",
+      "filename": "dly703.csv",
+      "lat": 51.868,
+      "lon": -10.05,
+      "header_line_num": 10
+    }
+  ],
+  "Kildare": [
+    {
+      "id": 6414,
+      "station": "ATHY (CHANTERLANDS)",
+      "filename": "dly6414.csv",
+      "lat": 52.984,
+      "lon": -6.972,
+      "header_line_num": 14
+    },
+    {
+      "id": 7014,
+      "station": "ATHY (LEVITSTOWN)",
+      "filename": "dly7014.csv",
+      "lat": 52.935,
+      "lon": -6.94,
+      "header_line_num": 10
+    },
+    {
+      "id": 3823,
+      "station": "BALLYMORE EUSTACE D.C.W.W.",
+      "filename": "dly3823.csv",
+      "lat": 53.122,
+      "lon": -6.603,
+      "header_line_num": 10
+    },
+    {
+      "id": 5414,
+      "station": "CASTLEDERMOT KILKEA HOUSE",
+      "filename": "dly5414.csv",
+      "lat": 52.934,
+      "lon": -6.888,
+      "header_line_num": 10
+    },
+    {
+      "id": 10023,
+      "station": "CELBRIDGE_Moortown",
+      "filename": "dly10023.csv",
+      "lat": 53.355,
+      "lon": -6.551,
+      "header_line_num": 10
+    },
+    {
+      "id": 6714,
+      "station": "KILBERRY II",
+      "filename": "dly6714.csv",
+      "lat": 53.026,
+      "lon": -6.992,
+      "header_line_num": 10
+    },
+    {
+      "id": 7214,
+      "station": "Lullymore_Nature_Centre",
+      "filename": "dly7214.csv",
+      "lat": 53.274,
+      "lon": -6.939,
+      "header_line_num": 14
+    },
+    {
+      "id": 5323,
+      "station": "NAAS (C.B.S.)",
+      "filename": "dly5323.csv",
+      "lat": 53.217,
+      "lon": -6.655,
+      "header_line_num": 10
+    },
+    {
+      "id": 8423,
+      "station": "NAAS (OSBERSTOWN)",
+      "filename": "dly8423.csv",
+      "lat": 53.221,
+      "lon": -6.689,
+      "header_line_num": 10
+    },
+    {
+      "id": 8823,
+      "station": "STRAFFAN (TURNINGS)",
+      "filename": "dly8823.csv",
+      "lat": 53.284,
+      "lon": -6.621,
+      "header_line_num": 10
+    }
+  ],
+  "Kilkenny": [
+    {
+      "id": 4113,
+      "station": "CALLAN (MOONARCHE)",
+      "filename": "dly4113.csv",
+      "lat": 52.534,
+      "lon": -7.418,
+      "header_line_num": 10
+    },
+    {
+      "id": 5214,
+      "station": "COOLGREANY CASTLEWARREN",
+      "filename": "dly5214.csv",
+      "lat": 52.705,
+      "lon": -7.118,
+      "header_line_num": 10
+    },
+    {
+      "id": 5013,
+      "station": "DUNGARVAN (CASTLEFIELD)",
+      "filename": "dly5013.csv",
+      "lat": 52.584,
+      "lon": -7.118,
+      "header_line_num": 10
+    },
+    {
+      "id": 6514,
+      "station": "GOWRAN",
+      "filename": "dly6514.csv",
+      "lat": 52.622,
+      "lon": -7.069,
+      "header_line_num": 10
+    },
+    {
+      "id": 6814,
+      "station": "GRAIGUENAMANAGH (BALLYOGAN HOUSE",
+      "filename": "dly6814.csv",
+      "lat": 52.505,
+      "lon": -6.937,
+      "header_line_num": 10
+    },
+    {
+      "id": 4513,
+      "station": "KILKENNY (LAVISTOWN HOUSE II)",
+      "filename": "dly4513.csv",
+      "lat": 52.636,
+      "lon": -7.192,
+      "header_line_num": 10
+    },
+    {
+      "id": 5613,
+      "station": "KILKENNY_Greenshill",
+      "filename": "dly5613.csv",
+      "lat": 52.657,
+      "lon": -7.253,
+      "header_line_num": 14
+    },
+    {
+      "id": 6912,
+      "station": "MULLINAVAT (GLENDONNELL)",
+      "filename": "dly6912.csv",
+      "lat": 52.358,
+      "lon": -7.154,
+      "header_line_num": 10
+    },
+    {
+      "id": 9612,
+      "station": "MULLINAVAT_Garrygaug",
+      "filename": "dly9612.csv",
+      "lat": 52.374,
+      "lon": -7.224,
+      "header_line_num": 10
+    },
+    {
+      "id": 5514,
+      "station": "PAULSTOWN (SHANKILL CASTLE)",
+      "filename": "dly5514.csv",
+      "lat": 52.686,
+      "lon": -7.019,
+      "header_line_num": 10
+    },
+    {
+      "id": 5912,
+      "station": "PILTOWN (KILDALTON AGR.COLL.)",
+      "filename": "dly5912.csv",
+      "lat": 52.351,
+      "lon": -7.3,
+      "header_line_num": 14
+    },
+    {
+      "id": 4913,
+      "station": "THOMASTOWN (MT. JULIET)",
+      "filename": "dly4913.csv",
+      "lat": 52.52,
+      "lon": -7.188,
+      "header_line_num": 14
+    }
+  ],
+  "Laois": [
+    {
+      "id": 5313,
+      "station": "BALLYROAN (OATLANDS)",
+      "filename": "dly5313.csv",
+      "lat": 52.92,
+      "lon": -7.324,
+      "header_line_num": 10
+    },
+    {
+      "id": 3222,
+      "station": "CLONASLEE WATERWORKS II",
+      "filename": "dly3222.csv",
+      "lat": 53.138,
+      "lon": -7.523,
+      "header_line_num": 10
+    },
+    {
+      "id": 5513,
+      "station": "DURROW",
+      "filename": "dly5513.csv",
+      "lat": 52.84,
+      "lon": -7.386,
+      "header_line_num": 14
+    },
+    {
+      "id": 4213,
+      "station": "PARKNAHOWN CULLAHILL",
+      "filename": "dly4213.csv",
+      "lat": 52.809,
+      "lon": -7.488,
+      "header_line_num": 10
+    },
+    {
+      "id": 3513,
+      "station": "SLIEVE BLOOM MTNS.(NEALSTOWN)",
+      "filename": "dly3513.csv",
+      "lat": 52.989,
+      "lon": -7.703,
+      "header_line_num": 14
+    }
+  ],
+  "Leitrim": [
+    {
+      "id": 3937,
+      "station": "AUGHNASHEELAN (MISKAWN)",
+      "filename": "dly3937.csv",
+      "lat": 54.084,
+      "lon": -7.868,
+      "header_line_num": 10
+    },
+    {
+      "id": 5937,
+      "station": "BALLINAMORE (CREEVY NO.2)",
+      "filename": "dly5937.csv",
+      "lat": 54.043,
+      "lon": -7.836,
+      "header_line_num": 14
+    },
+    {
+      "id": 6137,
+      "station": "BALLINAMORE-Tullyoscar",
+      "filename": "dly6137.csv",
+      "lat": 54.051,
+      "lon": -7.822,
+      "header_line_num": 10
+    },
+    {
+      "id": 6237,
+      "station": "CARRIGALLEN-Calloughs",
+      "filename": "dly6237.csv",
+      "lat": 53.984,
+      "lon": -7.655,
+      "header_line_num": 10
+    },
+    {
+      "id": 1936,
+      "station": "DROMAHAIR (MARKET ST.)",
+      "filename": "dly1936.csv",
+      "lat": 54.226,
+      "lon": -8.292,
+      "header_line_num": 10
+    },
+    {
+      "id": 1829,
+      "station": "DROMOD (RUSKEY)",
+      "filename": "dly1829.csv",
+      "lat": 53.822,
+      "lon": -7.918,
+      "header_line_num": 10
+    },
+    {
+      "id": 1729,
+      "station": "DRUMSHANBO",
+      "filename": "dly1729.csv",
+      "lat": 54.057,
+      "lon": -8.057,
+      "header_line_num": 10
+    },
+    {
+      "id": 1637,
+      "station": "KESHCARRIGAN G.S.",
+      "filename": "dly1637.csv",
+      "lat": 54.017,
+      "lon": -7.938,
+      "header_line_num": 10
+    },
+    {
+      "id": 3336,
+      "station": "LOUGH GLENCAR",
+      "filename": "dly3336.csv",
+      "lat": 54.334,
+      "lon": -8.353,
+      "header_line_num": 14
+    },
+    {
+      "id": 2236,
+      "station": "MANORHAMILTON (AMORSET)",
+      "filename": "dly2236.csv",
+      "lat": 54.304,
+      "lon": -8.176,
+      "header_line_num": 10
+    },
+    {
+      "id": 3140,
+      "station": "ROSSINVER ORGANIC CENTRE",
+      "filename": "dly3140.csv",
+      "lat": 54.389,
+      "lon": -8.119,
+      "header_line_num": 10
+    }
+  ],
+  "Limerick": [
+    {
+      "id": 3310,
+      "station": "ABBEYFEALE_CaherLane",
+      "filename": "dly3310.csv",
+      "lat": 52.351,
+      "lon": -9.283,
+      "header_line_num": 10
+    },
+    {
+      "id": 6411,
+      "station": "ADARE MANOR",
+      "filename": "dly6411.csv",
+      "lat": 52.552,
+      "lon": -8.783,
+      "header_line_num": 14
+    },
+    {
+      "id": 2610,
+      "station": "ATHEA_Templeathea",
+      "filename": "dly2610.csv",
+      "lat": 52.467,
+      "lon": -9.242,
+      "header_line_num": 10
+    },
+    {
+      "id": 6311,
+      "station": "BALLYHAHILL_Glenbawn",
+      "filename": "dly6311.csv",
+      "lat": 52.507,
+      "lon": -9.204,
+      "header_line_num": 10
+    },
+    {
+      "id": 5919,
+      "station": "CASTLECONNELL",
+      "filename": "dly5919.csv",
+      "lat": 52.707,
+      "lon": -8.473,
+      "header_line_num": 14
+    },
+    {
+      "id": 4911,
+      "station": "CASTLEMAHON W.W.",
+      "filename": "dly4911.csv",
+      "lat": 52.424,
+      "lon": -9.005,
+      "header_line_num": 10
+    },
+    {
+      "id": 6419,
+      "station": "COOGA_LowerDoon",
+      "filename": "dly6419.csv",
+      "lat": 52.605,
+      "lon": -8.27,
+      "header_line_num": 10
+    },
+    {
+      "id": 6211,
+      "station": "CROAGH_Smithfield",
+      "filename": "dly6211.csv",
+      "lat": 52.538,
+      "lon": -8.856,
+      "header_line_num": 10
+    },
+    {
+      "id": 6511,
+      "station": "KNOCKADERRY_Lissaniska",
+      "filename": "dly6511.csv",
+      "lat": 52.453,
+      "lon": -8.976,
+      "header_line_num": 10
+    },
+    {
+      "id": 5306,
+      "station": "MOUNT RUSSELL",
+      "filename": "dly5306.csv",
+      "lat": 52.324,
+      "lon": -8.568,
+      "header_line_num": 14
+    },
+    {
+      "id": 5711,
+      "station": "NEWCASTLE-WEST_Castle-Demesne",
+      "filename": "dly5711.csv",
+      "lat": 52.451,
+      "lon": -9.16,
+      "header_line_num": 10
+    },
+    {
+      "id": 4811,
+      "station": "PATRICKSWELL_Dooneen",
+      "filename": "dly4811.csv",
+      "lat": 52.59,
+      "lon": -8.67,
+      "header_line_num": 10
+    },
+    {
+      "id": 5111,
+      "station": "RATHKEALE_Duxton",
+      "filename": "dly5111.csv",
+      "lat": 52.474,
+      "lon": -8.907,
+      "header_line_num": 10
+    },
+    {
+      "id": 6111,
+      "station": "SHANAGOLDEN_OldAbbey",
+      "filename": "dly6111.csv",
+      "lat": 52.572,
+      "lon": -9.058,
+      "header_line_num": 10
+    },
+    {
+      "id": 6011,
+      "station": "SPRINGFIELD CASTLE",
+      "filename": "dly6011.csv",
+      "lat": 52.343,
+      "lon": -8.951,
+      "header_line_num": 14
+    }
+  ],
+  "Longford": [
+    {
+      "id": 7229,
+      "station": "GRANARD (BALLYMORE)",
+      "filename": "dly7229.csv",
+      "lat": 53.787,
+      "lon": -7.54,
+      "header_line_num": 10
+    },
+    {
+      "id": 4929,
+      "station": "LANESBORO (DOIRE DHAROG)",
+      "filename": "dly4929.csv",
+      "lat": 53.668,
+      "lon": -7.933,
+      "header_line_num": 14
+    },
+    {
+      "id": 6829,
+      "station": "TERMONBARRY",
+      "filename": "dly6829.csv",
+      "lat": 53.738,
+      "lon": -7.917,
+      "header_line_num": 10
+    }
+  ],
+  "Louth": [
+    {
+      "id": 2638,
+      "station": "ARDEE (BOHARNAMOE)",
+      "filename": "dly2638.csv",
+      "lat": 53.853,
+      "lon": -6.568,
+      "header_line_num": 14
+    },
+    {
+      "id": 1838,
+      "station": "ARDEE (ST.BRIGIDS HOSP.)",
+      "filename": "dly1838.csv",
+      "lat": 53.854,
+      "lon": -6.543,
+      "header_line_num": 10
+    },
+    {
+      "id": 3338,
+      "station": "CLOGHER HEAD (PORT)",
+      "filename": "dly3338.csv",
+      "lat": 53.839,
+      "lon": -6.273,
+      "header_line_num": 10
+    },
+    {
+      "id": 5780,
+      "station": "LH_DUNDALK",
+      "filename": "dly5780.csv",
+      "lat": 53.972,
+      "lon": -6.29,
+      "header_line_num": 10
+    },
+    {
+      "id": 2938,
+      "station": "MELLIFONT ABBEY",
+      "filename": "dly2938.csv",
+      "lat": 53.787,
+      "lon": -6.473,
+      "header_line_num": 10
+    },
+    {
+      "id": 1338,
+      "station": "OMEATH",
+      "filename": "dly1338.csv",
+      "lat": 54.085,
+      "lon": -6.254,
+      "header_line_num": 10
+    },
+    {
+      "id": 3438,
+      "station": "RIVERSTOWN (GLENMORE UPPER)",
+      "filename": "dly3438.csv",
+      "lat": 54.035,
+      "lon": -6.236,
+      "header_line_num": 10
+    },
+    {
+      "id": 3538,
+      "station": "TOGHER (BARMEATH CASTLE)",
+      "filename": "dly3538.csv",
+      "lat": 53.822,
+      "lon": -6.334,
+      "header_line_num": 10
+    }
+  ],
+  "Mayo": [
+    {
+      "id": 3735,
+      "station": "BALLINA (SHANAGHY)",
+      "filename": "dly3735.csv",
+      "lat": 54.106,
+      "lon": -9.135,
+      "header_line_num": 10
+    },
+    {
+      "id": 5535,
+      "station": "BALLINA GOLF CLUB",
+      "filename": "dly5535.csv",
+      "lat": 54.105,
+      "lon": -9.134,
+      "header_line_num": 14
+    },
+    {
+      "id": 4835,
+      "station": "BALLINA_Attymass",
+      "filename": "dly4835.csv",
+      "lat": 54.052,
+      "lon": -9.026,
+      "header_line_num": 10
+    },
+    {
+      "id": 2834,
+      "station": "BALLYCROY-Knockmoyleen",
+      "filename": "dly2834.csv",
+      "lat": 54.054,
+      "lon": -9.839,
+      "header_line_num": 14
+    },
+    {
+      "id": 5727,
+      "station": "BALLYHAUNIS-Lavallyroe",
+      "filename": "dly5727.csv",
+      "lat": 53.706,
+      "lon": -8.757,
+      "header_line_num": 10
+    },
+    {
+      "id": 1834,
+      "station": "BANGOR ERRIS (MAIN ST.)",
+      "filename": "dly1834.csv",
+      "lat": 54.14,
+      "lon": -9.738,
+      "header_line_num": 10
+    },
+    {
+      "id": 5627,
+      "station": "BELCARRA-(Carrajames)",
+      "filename": "dly5627.csv",
+      "lat": 53.783,
+      "lon": -9.225,
+      "header_line_num": 10
+    },
+    {
+      "id": 4535,
+      "station": "BELDERRIG",
+      "filename": "dly4535.csv",
+      "lat": 54.306,
+      "lon": -9.567,
+      "header_line_num": 14
+    },
+    {
+      "id": 2375,
+      "station": "Belmullet",
+      "filename": "dly2375.csv",
+      "lat": 54.223,
+      "lon": -10.004,
+      "header_line_num": 25
+    },
+    {
+      "id": 4235,
+      "station": "CARROWMORE LACKEN",
+      "filename": "dly4235.csv",
+      "lat": 54.256,
+      "lon": -9.271,
+      "header_line_num": 10
+    },
+    {
+      "id": 3035,
+      "station": "CASTLEBAR-(Burren)",
+      "filename": "dly3035.csv",
+      "lat": 53.909,
+      "lon": -9.304,
+      "header_line_num": 10
+    },
+    {
+      "id": 5035,
+      "station": "CROSSMOLINA-(Castlehill)",
+      "filename": "dly5035.csv",
+      "lat": 54.067,
+      "lon": -9.308,
+      "header_line_num": 10
+    },
+    {
+      "id": 2175,
+      "station": "Claremorris",
+      "filename": "dly2175.csv",
+      "lat": 53.707,
+      "lon": -8.989,
+      "header_line_num": 25
+    },
+    {
+      "id": 2426,
+      "station": "DELPHI LODGE II",
+      "filename": "dly2426.csv",
+      "lat": 53.626,
+      "lon": -9.742,
+      "header_line_num": 14
+    },
+    {
+      "id": 2635,
+      "station": "DERRYHILLAGH",
+      "filename": "dly2635.csv",
+      "lat": 54.033,
+      "lon": -9.388,
+      "header_line_num": 10
+    },
+    {
+      "id": 5227,
+      "station": "DERRYPARK",
+      "filename": "dly5227.csv",
+      "lat": 53.59,
+      "lon": -9.49,
+      "header_line_num": 10
+    },
+    {
+      "id": 1934,
+      "station": "DOOAGH-(Water_Treatment_Plant)",
+      "filename": "dly1934.csv",
+      "lat": 53.969,
+      "lon": -10.157,
+      "header_line_num": 10
+    },
+    {
+      "id": 2734,
+      "station": "DOONCARTON",
+      "filename": "dly2734.csv",
+      "lat": 54.27,
+      "lon": -9.852,
+      "header_line_num": 10
+    },
+    {
+      "id": 2826,
+      "station": "Drummin_Tawnyard",
+      "filename": "dly2826.csv",
+      "lat": 53.643,
+      "lon": -9.641,
+      "header_line_num": 10
+    },
+    {
+      "id": 2335,
+      "station": "ESKERAGH",
+      "filename": "dly2335.csv",
+      "lat": 54.107,
+      "lon": -9.467,
+      "header_line_num": 10
+    },
+    {
+      "id": 2334,
+      "station": "GLADREE",
+      "filename": "dly2334.csv",
+      "lat": 54.256,
+      "lon": -10.059,
+      "header_line_num": 10
+    },
+    {
+      "id": 2435,
+      "station": "KEENAGH BEG",
+      "filename": "dly2435.csv",
+      "lat": 54.035,
+      "lon": -9.483,
+      "header_line_num": 10
+    },
+    {
+      "id": 5127,
+      "station": "KILKEERAN",
+      "filename": "dly5127.csv",
+      "lat": 53.692,
+      "lon": -9.267,
+      "header_line_num": 10
+    },
+    {
+      "id": 1926,
+      "station": "KILLADOON",
+      "filename": "dly1926.csv",
+      "lat": 53.672,
+      "lon": -9.885,
+      "header_line_num": 10
+    },
+    {
+      "id": 4935,
+      "station": "Knock_Airport",
+      "filename": "dly4935.csv",
+      "lat": 53.904,
+      "lon": -8.817,
+      "header_line_num": 25
+    },
+    {
+      "id": 4135,
+      "station": "LAHERDANE-(Cum)",
+      "filename": "dly4135.csv",
+      "lat": 54.034,
+      "lon": -9.322,
+      "header_line_num": 10
+    },
+    {
+      "id": 4635,
+      "station": "LISGLENNON WATERWORKS",
+      "filename": "dly4635.csv",
+      "lat": 54.186,
+      "lon": -9.223,
+      "header_line_num": 10
+    },
+    {
+      "id": 1233,
+      "station": "MULRANY-(Doughbeg)",
+      "filename": "dly1233.csv",
+      "lat": 53.885,
+      "lon": -9.805,
+      "header_line_num": 10
+    },
+    {
+      "id": 1033,
+      "station": "MURRISK",
+      "filename": "dly1033.csv",
+      "lat": 53.776,
+      "lon": -9.624,
+      "header_line_num": 10
+    },
+    {
+      "id": 1733,
+      "station": "NEWPORT (ARDAGH LODGE)",
+      "filename": "dly1733.csv",
+      "lat": 53.888,
+      "lon": -9.604,
+      "header_line_num": 10
+    },
+    {
+      "id": 833,
+      "station": "NEWPORT (FURNACE)",
+      "filename": "dly833.csv",
+      "lat": 53.921,
+      "lon": -9.569,
+      "header_line_num": 14
+    },
+    {
+      "id": 1175,
+      "station": "Newport",
+      "filename": "dly1175.csv",
+      "lat": 53.92,
+      "lon": -9.57,
+      "header_line_num": 25
+    },
+    {
+      "id": 3335,
+      "station": "STRAIDE",
+      "filename": "dly3335.csv",
+      "lat": 53.922,
+      "lon": -9.122,
+      "header_line_num": 14
+    },
+    {
+      "id": 4927,
+      "station": "TOURMAKEADY-(WaterTreatmentPlant",
+      "filename": "dly4927.csv",
+      "lat": 53.676,
+      "lon": -9.369,
+      "header_line_num": 10
+    },
+    {
+      "id": 1433,
+      "station": "WESTPORT (CARRABAWN)",
+      "filename": "dly1433.csv",
+      "lat": 53.789,
+      "lon": -9.523,
+      "header_line_num": 10
+    },
+    {
+      "id": 5827,
+      "station": "WESTPORT-Ayle",
+      "filename": "dly5827.csv",
+      "lat": 53.77,
+      "lon": -9.406,
+      "header_line_num": 10
+    }
+  ],
+  "Meath": [
+    {
+      "id": 2332,
+      "station": "BELLEWSTOWN (COLLIERSTOWN)",
+      "filename": "dly2332.csv",
+      "lat": 53.638,
+      "lon": -6.356,
+      "header_line_num": 10
+    },
+    {
+      "id": 2532,
+      "station": "DUNSHAUGHLIN (LAGORE)",
+      "filename": "dly2532.csv",
+      "lat": 53.52,
+      "lon": -6.507,
+      "header_line_num": 10
+    },
+    {
+      "id": 5931,
+      "station": "Dunmoe-Graigs_Lane",
+      "filename": "dly5931.csv",
+      "lat": 53.686,
+      "lon": -6.641,
+      "header_line_num": 14
+    },
+    {
+      "id": 1375,
+      "station": "Dunsany",
+      "filename": "dly1375.csv",
+      "lat": 53.51,
+      "lon": -6.656,
+      "header_line_num": 25
+    },
+    {
+      "id": 5631,
+      "station": "ENFIELD (NEWCASTLE HOUSE)",
+      "filename": "dly5631.csv",
+      "lat": 53.418,
+      "lon": -6.857,
+      "header_line_num": 10
+    },
+    {
+      "id": 2632,
+      "station": "FAIRYHOUSE RACECOURSE",
+      "filename": "dly2632.csv",
+      "lat": 53.484,
+      "lon": -6.458,
+      "header_line_num": 10
+    },
+    {
+      "id": 5131,
+      "station": "KILSKYRE (ROBINSTOWN)",
+      "filename": "dly5131.csv",
+      "lat": 53.689,
+      "lon": -6.958,
+      "header_line_num": 10
+    },
+    {
+      "id": 3038,
+      "station": "KINGSCOURT GYPSUM",
+      "filename": "dly3038.csv",
+      "lat": 53.87,
+      "lon": -6.803,
+      "header_line_num": 10
+    },
+    {
+      "id": 5531,
+      "station": "MOYNALTY (SHANCARNAN)",
+      "filename": "dly5531.csv",
+      "lat": 53.792,
+      "lon": -6.907,
+      "header_line_num": 10
+    },
+    {
+      "id": 2432,
+      "station": "RATOATH",
+      "filename": "dly2432.csv",
+      "lat": 53.503,
+      "lon": -6.458,
+      "header_line_num": 10
+    },
+    {
+      "id": 5231,
+      "station": "SLANE (ARDCALF)",
+      "filename": "dly5231.csv",
+      "lat": 53.736,
+      "lon": -6.56,
+      "header_line_num": 10
+    },
+    {
+      "id": 5031,
+      "station": "WILKINSTOWN (YELLOW RIVER)",
+      "filename": "dly5031.csv",
+      "lat": 53.723,
+      "lon": -6.722,
+      "header_line_num": 10
+    }
+  ],
+  "Monaghan": [
+    {
+      "id": 2038,
+      "station": "CARRICKMACROSS (DUNOGE)",
+      "filename": "dly2038.csv",
+      "lat": 53.972,
+      "lon": -6.753,
+      "header_line_num": 14
+    },
+    {
+      "id": 6437,
+      "station": "CASTLEBLANEY_Coose",
+      "filename": "dly6437.csv",
+      "lat": 54.057,
+      "lon": -6.77,
+      "header_line_num": 10
+    },
+    {
+      "id": 5537,
+      "station": "CLONES (DUNSEARK)",
+      "filename": "dly5537.csv",
+      "lat": 54.141,
+      "lon": -7.203,
+      "header_line_num": 10
+    },
+    {
+      "id": 839,
+      "station": "EMYVALE",
+      "filename": "dly839.csv",
+      "lat": 54.338,
+      "lon": -6.956,
+      "header_line_num": 10
+    },
+    {
+      "id": 3638,
+      "station": "KINGSCOURT (DRUMMOND)",
+      "filename": "dly3638.csv",
+      "lat": 53.934,
+      "lon": -6.769,
+      "header_line_num": 10
+    },
+    {
+      "id": 639,
+      "station": "MONAGHAN (CASTLESHANE)",
+      "filename": "dly639.csv",
+      "lat": 54.235,
+      "lon": -6.89,
+      "header_line_num": 10
+    },
+    {
+      "id": 739,
+      "station": "MONAGHAN (KNOCKROE)",
+      "filename": "dly739.csv",
+      "lat": 54.24,
+      "lon": -6.985,
+      "header_line_num": 10
+    },
+    {
+      "id": 4237,
+      "station": "NEWBLISS (CRAPPAGH)",
+      "filename": "dly4237.csv",
+      "lat": 54.137,
+      "lon": -7.103,
+      "header_line_num": 10
+    },
+    {
+      "id": 3637,
+      "station": "NEWBLISS (DRUMSHANNON)",
+      "filename": "dly3637.csv",
+      "lat": 54.158,
+      "lon": -7.119,
+      "header_line_num": 10
+    },
+    {
+      "id": 5437,
+      "station": "SHANTONAGH (TOOA)",
+      "filename": "dly5437.csv",
+      "lat": 54.052,
+      "lon": -6.851,
+      "header_line_num": 10
+    }
+  ],
+  "Offaly": [
+    {
+      "id": 7429,
+      "station": "CLONMACNOISE",
+      "filename": "dly7429.csv",
+      "lat": 53.322,
+      "lon": -7.985,
+      "header_line_num": 14
+    },
+    {
+      "id": 4831,
+      "station": "CORBETSTOWN",
+      "filename": "dly4831.csv",
+      "lat": 53.404,
+      "lon": -7.16,
+      "header_line_num": 10
+    },
+    {
+      "id": 3431,
+      "station": "DERRYGREENAGH",
+      "filename": "dly3431.csv",
+      "lat": 53.388,
+      "lon": -7.255,
+      "header_line_num": 14
+    },
+    {
+      "id": 6314,
+      "station": "EDENDERRY (BALLINLA)",
+      "filename": "dly6314.csv",
+      "lat": 53.325,
+      "lon": -7.122,
+      "header_line_num": 14
+    },
+    {
+      "id": 3522,
+      "station": "HORSELEAP",
+      "filename": "dly3522.csv",
+      "lat": 53.376,
+      "lon": -7.575,
+      "header_line_num": 14
+    },
+    {
+      "id": 1519,
+      "station": "MEELICK (VICTORIA LOCK)",
+      "filename": "dly1519.csv",
+      "lat": 53.167,
+      "lon": -8.075,
+      "header_line_num": 10
+    }
+  ],
+  "Roscommon": [
+    {
+      "id": 2928,
+      "station": "ATHLEAGUE",
+      "filename": "dly2928.csv",
+      "lat": 53.567,
+      "lon": -8.272,
+      "header_line_num": 14
+    },
+    {
+      "id": 6729,
+      "station": "BALLYMORE",
+      "filename": "dly6729.csv",
+      "lat": 53.939,
+      "lon": -8.323,
+      "header_line_num": 14
+    },
+    {
+      "id": 5229,
+      "station": "BOYLE (MARIAN RD.)",
+      "filename": "dly5229.csv",
+      "lat": 53.968,
+      "lon": -8.303,
+      "header_line_num": 10
+    },
+    {
+      "id": 1529,
+      "station": "DRUMSNA (ALBERT LOCK)",
+      "filename": "dly1529.csv",
+      "lat": 53.907,
+      "lon": -8.0,
+      "header_line_num": 10
+    },
+    {
+      "id": 6129,
+      "station": "FRENCHPARK CALLOW",
+      "filename": "dly6129.csv",
+      "lat": 53.905,
+      "lon": -8.457,
+      "header_line_num": 10
+    },
+    {
+      "id": 6929,
+      "station": "LANESBORO (CLOONADRA)",
+      "filename": "dly6929.csv",
+      "lat": 53.673,
+      "lon": -8.019,
+      "header_line_num": 10
+    },
+    {
+      "id": 4129,
+      "station": "LECARROW",
+      "filename": "dly4129.csv",
+      "lat": 53.54,
+      "lon": -8.042,
+      "header_line_num": 10
+    },
+    {
+      "id": 1128,
+      "station": "LOUGHGLINN",
+      "filename": "dly1128.csv",
+      "lat": 53.82,
+      "lon": -8.553,
+      "header_line_num": 10
+    },
+    {
+      "id": 1975,
+      "station": "Mt_Dillon",
+      "filename": "dly1975.csv",
+      "lat": 53.723,
+      "lon": -7.975,
+      "header_line_num": 25
+    },
+    {
+      "id": 5829,
+      "station": "ROSCOMMON (VOCATIONAL SCHOOL II)",
+      "filename": "dly5829.csv",
+      "lat": 53.622,
+      "lon": -8.2,
+      "header_line_num": 10
+    },
+    {
+      "id": 6329,
+      "station": "STROKESTOWN (CARR0WCLOGHER)",
+      "filename": "dly6329.csv",
+      "lat": 53.752,
+      "lon": -8.106,
+      "header_line_num": 10
+    }
+  ],
+  "Sligo": [
+    {
+      "id": 2736,
+      "station": "ARDTARMON",
+      "filename": "dly2736.csv",
+      "lat": 54.336,
+      "lon": -8.62,
+      "header_line_num": 14
+    },
+    {
+      "id": 4036,
+      "station": "BALLYMOTE-Lavagh",
+      "filename": "dly4036.csv",
+      "lat": 54.102,
+      "lon": -8.684,
+      "header_line_num": 10
+    },
+    {
+      "id": 4136,
+      "station": "BALLYMOTE_Keenaghan",
+      "filename": "dly4136.csv",
+      "lat": 54.075,
+      "lon": -8.505,
+      "header_line_num": 10
+    },
+    {
+      "id": 3836,
+      "station": "CASTLE DARGAN GOLF CLUB",
+      "filename": "dly3836.csv",
+      "lat": 54.193,
+      "lon": -8.433,
+      "header_line_num": 10
+    },
+    {
+      "id": 3135,
+      "station": "CLOONACOOL (LOUGH EASKEY)",
+      "filename": "dly3135.csv",
+      "lat": 54.126,
+      "lon": -8.842,
+      "header_line_num": 10
+    },
+    {
+      "id": 5435,
+      "station": "CURRY",
+      "filename": "dly5435.csv",
+      "lat": 54.003,
+      "lon": -8.77,
+      "header_line_num": 10
+    },
+    {
+      "id": 3436,
+      "station": "EASKEY (BUNOWNA)",
+      "filename": "dly3436.csv",
+      "lat": 54.285,
+      "lon": -8.951,
+      "header_line_num": 10
+    },
+    {
+      "id": 5735,
+      "station": "ENNISCRONE GOLF CLUB",
+      "filename": "dly5735.csv",
+      "lat": 54.204,
+      "lon": -9.11,
+      "header_line_num": 10
+    },
+    {
+      "id": 3040,
+      "station": "GRANGE-Mountemple",
+      "filename": "dly3040.csv",
+      "lat": 54.417,
+      "lon": -8.484,
+      "header_line_num": 10
+    },
+    {
+      "id": 3036,
+      "station": "KINSELLAGH",
+      "filename": "dly3036.csv",
+      "lat": 54.302,
+      "lon": -8.407,
+      "header_line_num": 10
+    },
+    {
+      "id": 2636,
+      "station": "LOUGH GILL",
+      "filename": "dly2636.csv",
+      "lat": 54.235,
+      "lon": -8.436,
+      "header_line_num": 10
+    },
+    {
+      "id": 9936,
+      "station": "M.BELTRA FOREST",
+      "filename": "dly9936.csv",
+      "lat": 54.183,
+      "lon": -8.633,
+      "header_line_num": 10
+    },
+    {
+      "id": 1275,
+      "station": "Markree",
+      "filename": "dly1275.csv",
+      "lat": 54.172,
+      "lon": -8.453,
+      "header_line_num": 15
+    },
+    {
+      "id": 2936,
+      "station": "SLIGO AIRPORT",
+      "filename": "dly2936.csv",
+      "lat": 54.274,
+      "lon": -8.592,
+      "header_line_num": 14
+    },
+    {
+      "id": 3936,
+      "station": "Skreen_II",
+      "filename": "dly3936.csv",
+      "lat": 54.239,
+      "lon": -8.725,
+      "header_line_num": 10
+    }
+  ],
+  "Tipperary": [
+    {
+      "id": 8612,
+      "station": "ARDFINNAN (GARRYDUFF)",
+      "filename": "dly8612.csv",
+      "lat": 52.288,
+      "lon": -7.885,
+      "header_line_num": 10
+    },
+    {
+      "id": 5012,
+      "station": "BANSHA (AHERLOW W.W.)",
+      "filename": "dly5012.csv",
+      "lat": 52.404,
+      "lon": -8.12,
+      "header_line_num": 10
+    },
+    {
+      "id": 9312,
+      "station": "CAHIR (TOUREEN)",
+      "filename": "dly9312.csv",
+      "lat": 52.406,
+      "lon": -7.987,
+      "header_line_num": 10
+    },
+    {
+      "id": 4612,
+      "station": "CAHIR (VOC.SCH.)",
+      "filename": "dly4612.csv",
+      "lat": 52.374,
+      "lon": -7.919,
+      "header_line_num": 10
+    },
+    {
+      "id": 6412,
+      "station": "CAHIR PARK II",
+      "filename": "dly6412.csv",
+      "lat": 52.353,
+      "lon": -7.924,
+      "header_line_num": 10
+    },
+    {
+      "id": 6812,
+      "station": "CARRICK-ON-SUIR II",
+      "filename": "dly6812.csv",
+      "lat": 52.338,
+      "lon": -7.403,
+      "header_line_num": 10
+    },
+    {
+      "id": 2012,
+      "station": "CASHEL (BALLINAMONA)",
+      "filename": "dly2012.csv",
+      "lat": 52.507,
+      "lon": -7.923,
+      "header_line_num": 10
+    },
+    {
+      "id": 7612,
+      "station": "CASHEL (BALLYDOYLE HOUSE)",
+      "filename": "dly7612.csv",
+      "lat": 52.457,
+      "lon": -7.823,
+      "header_line_num": 14
+    },
+    {
+      "id": 5512,
+      "station": "CLONMEL (REDMONDSTOWN)",
+      "filename": "dly5512.csv",
+      "lat": 52.37,
+      "lon": -7.654,
+      "header_line_num": 10
+    },
+    {
+      "id": 8112,
+      "station": "CLONOULTY (CLOGHER)",
+      "filename": "dly8112.csv",
+      "lat": 52.619,
+      "lon": -7.934,
+      "header_line_num": 10
+    },
+    {
+      "id": 7019,
+      "station": "CLOUGHJORDAN-Oxpark",
+      "filename": "dly7019.csv",
+      "lat": 52.941,
+      "lon": -8.037,
+      "header_line_num": 10
+    },
+    {
+      "id": 4112,
+      "station": "DRANGAN (MOANVURRIN)",
+      "filename": "dly4112.csv",
+      "lat": 52.525,
+      "lon": -7.575,
+      "header_line_num": 10
+    },
+    {
+      "id": 7112,
+      "station": "FETHARD (PARSONSHILL)",
+      "filename": "dly7112.csv",
+      "lat": 52.509,
+      "lon": -7.643,
+      "header_line_num": 14
+    },
+    {
+      "id": 5406,
+      "station": "GALTEE MOUNTAINS SKEHEENARINKY",
+      "filename": "dly5406.csv",
+      "lat": 52.323,
+      "lon": -8.16,
+      "header_line_num": 10
+    },
+    {
+      "id": 1475,
+      "station": "Gurteen",
+      "filename": "dly1475.csv",
+      "lat": 53.052,
+      "lon": -8.005,
+      "header_line_num": 25
+    },
+    {
+      "id": 9512,
+      "station": "Holycross-Cabragh_Wetlands",
+      "filename": "dly9512.csv",
+      "lat": 52.637,
+      "lon": -7.836,
+      "header_line_num": 14
+    },
+    {
+      "id": 9112,
+      "station": "KILSHEELAN",
+      "filename": "dly9112.csv",
+      "lat": 52.356,
+      "lon": -7.572,
+      "header_line_num": 10
+    },
+    {
+      "id": 6719,
+      "station": "LIMERICK JUNCTION (SOLOHEAD)",
+      "filename": "dly6719.csv",
+      "lat": 52.504,
+      "lon": -8.204,
+      "header_line_num": 10
+    },
+    {
+      "id": 6712,
+      "station": "LITTLETON II B. NA M.",
+      "filename": "dly6712.csv",
+      "lat": 52.607,
+      "lon": -7.7,
+      "header_line_num": 14
+    },
+    {
+      "id": 6312,
+      "station": "MULLINAHONE (KILLAGHY)",
+      "filename": "dly6312.csv",
+      "lat": 52.517,
+      "lon": -7.505,
+      "header_line_num": 10
+    },
+    {
+      "id": 6919,
+      "station": "NEWPORT_Coole",
+      "filename": "dly6919.csv",
+      "lat": 52.722,
+      "lon": -8.402,
+      "header_line_num": 10
+    },
+    {
+      "id": 6119,
+      "station": "ROSCREA (NEW ROAD)",
+      "filename": "dly6119.csv",
+      "lat": 52.967,
+      "lon": -7.775,
+      "header_line_num": 10
+    },
+    {
+      "id": 4819,
+      "station": "SILVERMINES MTNS.(CURREENY)",
+      "filename": "dly4819.csv",
+      "lat": 52.733,
+      "lon": -8.142,
+      "header_line_num": 10
+    },
+    {
+      "id": 8712,
+      "station": "THURLES RACECOURSE",
+      "filename": "dly8712.csv",
+      "lat": 52.685,
+      "lon": -7.825,
+      "header_line_num": 10
+    }
+  ],
+  "Waterford": [
+    {
+      "id": 7412,
+      "station": "ADAMSTOWN",
+      "filename": "dly7412.csv",
+      "lat": 52.224,
+      "lon": -7.226,
+      "header_line_num": 10
+    },
+    {
+      "id": 5506,
+      "station": "BALLINAMULT (DOON)",
+      "filename": "dly5506.csv",
+      "lat": 52.208,
+      "lon": -7.742,
+      "header_line_num": 10
+    },
+    {
+      "id": 8106,
+      "station": "CAPPOQUIN (STATION HOUSE)",
+      "filename": "dly8106.csv",
+      "lat": 52.14,
+      "lon": -7.841,
+      "header_line_num": 10
+    },
+    {
+      "id": 1407,
+      "station": "DUNGARVAN (CARRIGLEA)",
+      "filename": "dly1407.csv",
+      "lat": 52.086,
+      "lon": -7.676,
+      "header_line_num": 14
+    },
+    {
+      "id": 2307,
+      "station": "DUNMORE_EAST-Kilmacleague",
+      "filename": "dly2307.csv",
+      "lat": 52.16,
+      "lon": -7.059,
+      "header_line_num": 10
+    },
+    {
+      "id": 1107,
+      "station": "FENOR (ISLANDTARSNEY)",
+      "filename": "dly1107.csv",
+      "lat": 52.151,
+      "lon": -7.204,
+      "header_line_num": 10
+    },
+    {
+      "id": 2107,
+      "station": "FENOR_SOUTH",
+      "filename": "dly2107.csv",
+      "lat": 52.153,
+      "lon": -7.221,
+      "header_line_num": 10
+    },
+    {
+      "id": 8006,
+      "station": "GLENCAIRN (TOURTANE HOUSE)",
+      "filename": "dly8006.csv",
+      "lat": 52.12,
+      "lon": -7.951,
+      "header_line_num": 10
+    },
+    {
+      "id": 1507,
+      "station": "KILMACTHOMAS (GRAIGUERUSH)",
+      "filename": "dly1507.csv",
+      "lat": 52.207,
+      "lon": -7.475,
+      "header_line_num": 10
+    },
+    {
+      "id": 4006,
+      "station": "KNOCKANORE",
+      "filename": "dly4006.csv",
+      "lat": 52.058,
+      "lon": -7.886,
+      "header_line_num": 10
+    },
+    {
+      "id": 9907,
+      "station": "M.CROHAUN",
+      "filename": "dly9907.csv",
+      "lat": 52.154,
+      "lon": -7.592,
+      "header_line_num": 10
+    },
+    {
+      "id": 8212,
+      "station": "PORTLAW-MAYFIELD II",
+      "filename": "dly8212.csv",
+      "lat": 52.288,
+      "lon": -7.301,
+      "header_line_num": 10
+    },
+    {
+      "id": 6406,
+      "station": "TALLOW KILMORE",
+      "filename": "dly6406.csv",
+      "lat": 52.071,
+      "lon": -7.976,
+      "header_line_num": 14
+    },
+    {
+      "id": 7706,
+      "station": "TALLOWBRIDGE",
+      "filename": "dly7706.csv",
+      "lat": 52.104,
+      "lon": -8.002,
+      "header_line_num": 10
+    },
+    {
+      "id": 2207,
+      "station": "TRAMORE_Ard_na_Groi",
+      "filename": "dly2207.csv",
+      "lat": 52.17,
+      "lon": -7.152,
+      "header_line_num": 10
+    },
+    {
+      "id": 1812,
+      "station": "WATERFORD (TYCOR)",
+      "filename": "dly1812.csv",
+      "lat": 52.252,
+      "lon": -7.125,
+      "header_line_num": 14
+    },
+    {
+      "id": 4106,
+      "station": "YOUGHAL (GLENDINE W.W.)",
+      "filename": "dly4106.csv",
+      "lat": 52.004,
+      "lon": -7.904,
+      "header_line_num": 10
+    }
+  ],
+  "Westmeath": [
+    {
+      "id": 4629,
+      "station": "ATHLONE (GLYNNWOOD)",
+      "filename": "dly4629.csv",
+      "lat": 53.403,
+      "lon": -7.84,
+      "header_line_num": 10
+    },
+    {
+      "id": 1929,
+      "station": "ATHLONE O.P.W.",
+      "filename": "dly1929.csv",
+      "lat": 53.42,
+      "lon": -7.938,
+      "header_line_num": 10
+    },
+    {
+      "id": 2731,
+      "station": "BALLIVOR (HILL OF DOWN)",
+      "filename": "dly2731.csv",
+      "lat": 53.533,
+      "lon": -7.024,
+      "header_line_num": 10
+    },
+    {
+      "id": 5731,
+      "station": "COLLINSTOWN (LOUGH BAWN)",
+      "filename": "dly5731.csv",
+      "lat": 53.683,
+      "lon": -7.168,
+      "header_line_num": 10
+    },
+    {
+      "id": 1130,
+      "station": "COOLE (COOLNAGUN)",
+      "filename": "dly1130.csv",
+      "lat": 53.674,
+      "lon": -7.417,
+      "header_line_num": 10
+    },
+    {
+      "id": 2230,
+      "station": "COOLE-COOLURE",
+      "filename": "dly2230.csv",
+      "lat": 53.67,
+      "lon": -7.37,
+      "header_line_num": 10
+    },
+    {
+      "id": 5331,
+      "station": "DELVIN CASTLE G.C.",
+      "filename": "dly5331.csv",
+      "lat": 53.608,
+      "lon": -7.104,
+      "header_line_num": 10
+    },
+    {
+      "id": 4631,
+      "station": "KINNEGAD (MULLINGAR ROAD)",
+      "filename": "dly4631.csv",
+      "lat": 53.456,
+      "lon": -7.107,
+      "header_line_num": 10
+    },
+    {
+      "id": 875,
+      "station": "Mullingar",
+      "filename": "dly875.csv",
+      "lat": 53.536,
+      "lon": -7.357,
+      "header_line_num": 25
+    },
+    {
+      "id": 4331,
+      "station": "RATHWIRE",
+      "filename": "dly4331.csv",
+      "lat": 53.505,
+      "lon": -7.138,
+      "header_line_num": 10
+    },
+    {
+      "id": 3022,
+      "station": "TYRRELLSPASS",
+      "filename": "dly3022.csv",
+      "lat": 53.367,
+      "lon": -7.392,
+      "header_line_num": 10
+    }
+  ],
+  "Wexford": [
+    {
+      "id": 1108,
+      "station": "BANNOW",
+      "filename": "dly1108.csv",
+      "lat": 52.207,
+      "lon": -6.786,
+      "header_line_num": 10
+    },
+    {
+      "id": 4615,
+      "station": "BOOLAVOGUE-Knockavocca",
+      "filename": "dly4615.csv",
+      "lat": 52.555,
+      "lon": -6.451,
+      "header_line_num": 10
+    },
+    {
+      "id": 4215,
+      "station": "BUNCLODY-Corragh",
+      "filename": "dly4215.csv",
+      "lat": 52.676,
+      "lon": -6.604,
+      "header_line_num": 10
+    },
+    {
+      "id": 1116,
+      "station": "CAHORE (KILMICHAEL HOUSE)",
+      "filename": "dly1116.csv",
+      "lat": 52.558,
+      "lon": -6.207,
+      "header_line_num": 14
+    },
+    {
+      "id": 5715,
+      "station": "CASTLEBRIDGE-BallybogganLower",
+      "filename": "dly5715.csv",
+      "lat": 52.387,
+      "lon": -6.459,
+      "header_line_num": 10
+    },
+    {
+      "id": 5415,
+      "station": "CLONROCHE (KNOXTOWN)",
+      "filename": "dly5415.csv",
+      "lat": 52.44,
+      "lon": -6.787,
+      "header_line_num": 14
+    },
+    {
+      "id": 1616,
+      "station": "COOLGREANEY_StMartins",
+      "filename": "dly1616.csv",
+      "lat": 52.76,
+      "lon": -6.239,
+      "header_line_num": 10
+    },
+    {
+      "id": 908,
+      "station": "DUNCANNON",
+      "filename": "dly908.csv",
+      "lat": 52.209,
+      "lon": -6.908,
+      "header_line_num": 10
+    },
+    {
+      "id": 4015,
+      "station": "ENNISCORTHY-Brownswood",
+      "filename": "dly4015.csv",
+      "lat": 52.458,
+      "lon": -6.557,
+      "header_line_num": 10
+    },
+    {
+      "id": 4715,
+      "station": "FERNS III",
+      "filename": "dly4715.csv",
+      "lat": 52.626,
+      "lon": -6.543,
+      "header_line_num": 10
+    },
+    {
+      "id": 108,
+      "station": "FOULKESMILL-(Longraigue)",
+      "filename": "dly108.csv",
+      "lat": 52.306,
+      "lon": -6.76,
+      "header_line_num": 10
+    },
+    {
+      "id": 5615,
+      "station": "GLYNN-Bulgan",
+      "filename": "dly5615.csv",
+      "lat": 52.369,
+      "lon": -6.593,
+      "header_line_num": 10
+    },
+    {
+      "id": 1816,
+      "station": "GOREY-GardenCity",
+      "filename": "dly1816.csv",
+      "lat": 52.676,
+      "lon": -6.286,
+      "header_line_num": 10
+    },
+    {
+      "id": 4514,
+      "station": "JOHN F. KENNEDY PARK",
+      "filename": "dly4514.csv",
+      "lat": 52.317,
+      "lon": -6.938,
+      "header_line_num": 14
+    },
+    {
+      "id": 1775,
+      "station": "JohnstownII",
+      "filename": "dly1775.csv",
+      "lat": 52.292,
+      "lon": -6.491,
+      "header_line_num": 25
+    },
+    {
+      "id": 4115,
+      "station": "KILTEALY-Askinvillar",
+      "filename": "dly4115.csv",
+      "lat": 52.553,
+      "lon": -6.754,
+      "header_line_num": 10
+    },
+    {
+      "id": 1416,
+      "station": "MONAMOLIN",
+      "filename": "dly1416.csv",
+      "lat": 52.551,
+      "lon": -6.354,
+      "header_line_num": 10
+    },
+    {
+      "id": 5714,
+      "station": "NEW ROSS W.W.",
+      "filename": "dly5714.csv",
+      "lat": 52.401,
+      "lon": -6.936,
+      "header_line_num": 10
+    },
+    {
+      "id": 1308,
+      "station": "OLD_ROSS-Dunanore",
+      "filename": "dly1308.csv",
+      "lat": 52.39,
+      "lon": -6.842,
+      "header_line_num": 10
+    },
+    {
+      "id": 1208,
+      "station": "TAGHMON-Kilgarvan",
+      "filename": "dly1208.csv",
+      "lat": 52.351,
+      "lon": -6.692,
+      "header_line_num": 10
+    },
+    {
+      "id": 4815,
+      "station": "WEXFORD WILDFOWL RESERVE",
+      "filename": "dly4815.csv",
+      "lat": 52.354,
+      "lon": -6.419,
+      "header_line_num": 14
+    },
+    {
+      "id": 3415,
+      "station": "WEXFORD-Newtown_WW",
+      "filename": "dly3415.csv",
+      "lat": 52.338,
+      "lon": -6.501,
+      "header_line_num": 10
+    }
+  ],
+  "Wicklow": [
+    {
+      "id": 3324,
+      "station": "ARKLOW (BALLYRICHARD HOUSE)",
+      "filename": "dly3324.csv",
+      "lat": 52.834,
+      "lon": -6.125,
+      "header_line_num": 14
+    },
+    {
+      "id": 3924,
+      "station": "ASHFORD (CRONYKEERY)",
+      "filename": "dly3924.csv",
+      "lat": 53.022,
+      "lon": -6.072,
+      "header_line_num": 14
+    },
+    {
+      "id": 3124,
+      "station": "ASHFORD (GLANMORE GARDENS)",
+      "filename": "dly3124.csv",
+      "lat": 53.02,
+      "lon": -6.139,
+      "header_line_num": 10
+    },
+    {
+      "id": 2820,
+      "station": "AUGHRIM-Killacloran",
+      "filename": "dly2820.csv",
+      "lat": 52.843,
+      "lon": -6.301,
+      "header_line_num": 10
+    },
+    {
+      "id": 3824,
+      "station": "BALLYNAHINCH",
+      "filename": "dly3824.csv",
+      "lat": 53.073,
+      "lon": -6.168,
+      "header_line_num": 10
+    },
+    {
+      "id": 8623,
+      "station": "BLESSINGTON (HEMPSTOWN)",
+      "filename": "dly8623.csv",
+      "lat": 53.192,
+      "lon": -6.503,
+      "header_line_num": 10
+    },
+    {
+      "id": 5015,
+      "station": "CARNEW-Cronyhorn",
+      "filename": "dly5015.csv",
+      "lat": 52.717,
+      "lon": -6.507,
+      "header_line_num": 10
+    },
+    {
+      "id": 4124,
+      "station": "Druids_Glen_Golf_Course",
+      "filename": "dly4124.csv",
+      "lat": 53.091,
+      "lon": -6.076,
+      "header_line_num": 10
+    },
+    {
+      "id": 2415,
+      "station": "GLEN IMAAL (FOR.STN.)",
+      "filename": "dly2415.csv",
+      "lat": 52.991,
+      "lon": -6.539,
+      "header_line_num": 10
+    },
+    {
+      "id": 3223,
+      "station": "GLENBRIDE LODGE",
+      "filename": "dly3223.csv",
+      "lat": 53.074,
+      "lon": -6.452,
+      "header_line_num": 10
+    },
+    {
+      "id": 2824,
+      "station": "GLENEALY (KILMACURRAGH PARK)",
+      "filename": "dly2824.csv",
+      "lat": 52.924,
+      "lon": -6.143,
+      "header_line_num": 14
+    },
+    {
+      "id": 1420,
+      "station": "GLENMACNASS",
+      "filename": "dly1420.csv",
+      "lat": 53.056,
+      "lon": -6.333,
+      "header_line_num": 10
+    },
+    {
+      "id": 4024,
+      "station": "KILBRIDE-TOGHER",
+      "filename": "dly4024.csv",
+      "lat": 52.889,
+      "lon": -6.102,
+      "header_line_num": 10
+    },
+    {
+      "id": 3624,
+      "station": "KILCOOLE (TREATMENT PLANT)",
+      "filename": "dly3624.csv",
+      "lat": 53.101,
+      "lon": -6.043,
+      "header_line_num": 10
+    },
+    {
+      "id": 19023,
+      "station": "M.BALLINATONA",
+      "filename": "dly19023.csv",
+      "lat": 53.158,
+      "lon": -6.422,
+      "header_line_num": 10
+    },
+    {
+      "id": 9220,
+      "station": "M.DUFF HILL",
+      "filename": "dly9220.csv",
+      "lat": 53.103,
+      "lon": -6.372,
+      "header_line_num": 10
+    },
+    {
+      "id": 9420,
+      "station": "M.GLENMALURE (CLOGHERNAGH FOR.)",
+      "filename": "dly9420.csv",
+      "lat": 52.953,
+      "lon": -6.372,
+      "header_line_num": 10
+    },
+    {
+      "id": 9820,
+      "station": "M.LOUGH OULER",
+      "filename": "dly9820.csv",
+      "lat": 53.059,
+      "lon": -6.359,
+      "header_line_num": 10
+    },
+    {
+      "id": 19323,
+      "station": "M.MOANBANE NO.1",
+      "filename": "dly19323.csv",
+      "lat": 53.083,
+      "lon": -6.455,
+      "header_line_num": 10
+    },
+    {
+      "id": 19523,
+      "station": "M.MOANBANE NO.4",
+      "filename": "dly19523.csv",
+      "lat": 53.085,
+      "lon": -6.438,
+      "header_line_num": 10
+    },
+    {
+      "id": 8720,
+      "station": "M.MULLAGHCLEEVAUN",
+      "filename": "dly8720.csv",
+      "lat": 53.102,
+      "lon": -6.367,
+      "header_line_num": 10
+    },
+    {
+      "id": 9520,
+      "station": "M.RATHDRUM (BALLINTOMBAY FOR.)",
+      "filename": "dly9520.csv",
+      "lat": 52.951,
+      "lon": -6.291,
+      "header_line_num": 10
+    },
+    {
+      "id": 19723,
+      "station": "M.SALLY GAP",
+      "filename": "dly19723.csv",
+      "lat": 53.137,
+      "lon": -6.317,
+      "header_line_num": 10
+    },
+    {
+      "id": 820,
+      "station": "MONEYSTOWN",
+      "filename": "dly820.csv",
+      "lat": 53.007,
+      "lon": -6.223,
+      "header_line_num": 10
+    },
+    {
+      "id": 2724,
+      "station": "NEWTOWNMOUNTKENNEDY FOREST LAB.",
+      "filename": "dly2724.csv",
+      "lat": 53.092,
+      "lon": -6.108,
+      "header_line_num": 10
+    },
+    {
+      "id": 2420,
+      "station": "OLDBRIDGE (OAKVIEW)",
+      "filename": "dly2420.csv",
+      "lat": 53.052,
+      "lon": -6.272,
+      "header_line_num": 10
+    },
+    {
+      "id": 1024,
+      "station": "ROUNDWOOD (FILTER BEDS)",
+      "filename": "dly1024.csv",
+      "lat": 53.042,
+      "lon": -6.186,
+      "header_line_num": 10
+    },
+    {
+      "id": 2520,
+      "station": "TINAHELY-Mucklagh",
+      "filename": "dly2520.csv",
+      "lat": 52.808,
+      "lon": -6.388,
+      "header_line_num": 10
+    }
+  ],
+  "Buoys": [
+    {
+      "id": 62091,
+      "station": "M2_Buoy",
+      "filename": "dly62091.csv",
+      "lat": 53.48,
+      "lon": -5.43,
+      "header_line_num": 10
+    },
+    {
+      "id": 62092,
+      "station": "M3_Buoy",
+      "filename": "dly62092.csv",
+      "lat": 51.22,
+      "lon": -10.55,
+      "header_line_num": 10
+    },
+    {
+      "id": 62093,
+      "station": "M4_Buoy",
+      "filename": "dly62093.csv",
+      "lat": 55.1,
+      "lon": -10.0,
+      "header_line_num": 10
+    },
+    {
+      "id": 62094,
+      "station": "M5_Buoy",
+      "filename": "dly62094.csv",
+      "lat": 51.69,
+      "lon": -6.7,
+      "header_line_num": 10
+    },
+    {
+      "id": 62095,
+      "station": "M6_Buoy[-15.87W]",
+      "filename": "dly62095.csv",
+      "lat": 52.99,
+      "lon": -14.0,
+      "header_line_num": 10
+    }
+  ]
+}
