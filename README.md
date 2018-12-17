@@ -4,7 +4,7 @@ Code and analyses for CA682 module.
 
 ## Data
 
-Data will be hosted on Google Drive.
+* Tarball containing 498 CSV files: [csvs.tar.gz](https://drive.google.com/open?id=18hNkat9vaakwkwfsJoylyVINF45yQr6t) [31 MB]
 
 ## Finding weather station data
 
