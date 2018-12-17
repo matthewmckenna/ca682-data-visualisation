@@ -67,7 +67,7 @@ From the parent directory (`data/daily`), the following commands were run to ext
 
 ```bash
 $ mkdir csvs
-$ for f in $(ls zips); do unzip -nd csv2 zips/$f; done >log 2>&1
+$ for f in $(ls zips); do unzip -nd csv zips/$f; done >log 2>&1
 ```
 
 Some errors were noted during the `unzip` operation (as noted in the `log` file generated).

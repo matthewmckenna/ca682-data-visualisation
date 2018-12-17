@@ -68,12 +68,11 @@ def aggregate_and_plot(
 ) -> None:
     """aggreate and plot a dataframe"""
     # split the data into the past decade, and everything else
-    last_decade, historic = split_data(df, cutoff_year=2008)
+    last_decade, historic = split_data(df, cutoff_year=2006)
 
     # get the start and end years for the historic data
     start_end_year = get_start_end_years(historic)
     print(f'Historic data from: {start_end_year[0]}–{start_end_year[1]}')
-
 
     # aggregate the two DataFrames based on the timescale selected above
     historic_agg = aggregate_data(historic, timescale=timescale)
@@ -195,6 +194,9 @@ def plot(
     for l in ax.xaxis.get_ticklabels():
         l.set_alpha(text_alpha)
 
+    plot_fname = f'{timescale}-{aggregation}-{county.lower()}-{station.lower()}.png'
+    plt.savefig(plot_fname, bbox_inches='tight', dpi=300)
+
 
 def plot_top_months(
     data: Dict[str, Dict[str, List[Any]]],
@@ -217,7 +219,11 @@ def plot_top_months(
     text_alpha = 0.7
     # colours to be used for bars
     grayed_out = 'silver'
-    colour = '#8da0cb'
+    top_colour = '#8da0cb'
+    decade_colour = '#fc8d62'
+    # decade_colour = '#f9b99f'
+    # decade_colour = '#66c2a5'
+    # decade_colour = '#cb8da0'
 
     plt.figure(figsize=(sx, sy))
     ax = plt.gca()
@@ -235,7 +241,7 @@ def plot_top_months(
 
     if highlight_top_only:
         # colour top bar only
-        bars[0].set_color(colour)
+        bars[0].set_color(top_colour)
     else:
         # enumerate the indices
         index_map = dict(zip(top_n.index, range(n_months)))
@@ -247,7 +253,7 @@ def plot_top_months(
         recent_years = set(index_map[i] for i in indices)
 
         for idx in recent_years:
-            bars[idx].set_color(colour)
+            bars[idx].set_color(decade_colour)
 
     # set up the tickmarks and labels
     ax.set_xticks(label_pos)
@@ -284,3 +290,6 @@ def plot_top_months(
     # set the title
     title = f'Top {n_months} monthly rainfall levels (mm) recorded in {station_name}, {county}'
     ax.set_title(title, alpha=text_alpha)
+
+    plot_fname = f'{"top" if highlight_top_only else "decade"}-{county.lower()}.png'
+    plt.savefig(plot_fname, bbox_inches='tight', dpi=300)
